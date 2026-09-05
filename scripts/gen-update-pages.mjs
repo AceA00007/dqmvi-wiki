@@ -86,7 +86,8 @@ for (const g of DATA.groups) {
   lines.push('')
   lines.push(`${g.items.length}項目`)
   lines.push('')
-  for (const t of g.items) lines.push(`- **［${kindOf(t)}］** ${t.replace(/\|/g, '\\|')}`)
+  // 原文にタブが入っている行（職業名 \t 説明）は空白1つにする。文字は変えない
+  for (const t of g.items) lines.push(`- **［${kindOf(t)}］** ${t.replace(/\|/g, '\\|').replace(/\t/g, ' ')}`)
   lines.push('')
 }
 

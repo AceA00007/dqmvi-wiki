@@ -183,6 +183,7 @@ const wanted = computed(() => {
 })
 
 const log = [
+  { d: '09-05', t: 'MOD更新履歴に 9/4〜9/5 の3回分（0.27.72〜0.28.16）を追加', link: '/guide/updates', who: 'Claude' },
   { d: '09-05', t: 'MOD 0.28.16 に対応（モンスター37体・職業8職・武器5種が増えた）', link: '/monsters/', who: 'Claude' },
   { d: '09-05', t: '職業ページに「職業の特徴」と転職条件を追加', link: '/jobs/', who: 'Claude' },
   { d: '09-05', t: '素材一覧に「ランク」と鉱石の深さを追加', link: '/items/materials', who: 'Claude' },
