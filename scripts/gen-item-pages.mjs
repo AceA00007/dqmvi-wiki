@@ -42,6 +42,15 @@ const STATS = existsSync(STATS_PATH)
   ? JSON.parse(readFileSync(STATS_PATH, 'utf8'))
   : { weapons: {}, armor: {}, shields: {}, accessories: {} }
 
+/**
+ * 数値を空欄にする武器種（手で書くファイル scripts/data/weapon-blank.json の kinds）。
+ * 武器一覧ページで、この種類は名前だけ残して こうげき・攻撃倍率・特殊効果 の欄を空にする。
+ */
+const WEAPON_BLANK_PATH = join('scripts', 'data', 'weapon-blank.json')
+const BLANK_WEAPON_KINDS = new Set(
+  existsSync(WEAPON_BLANK_PATH) ? JSON.parse(readFileSync(WEAPON_BLANK_PATH, 'utf8')).kinds ?? [] : []
+)
+
 /** 倍率は小数が長く出るので2桁に丸める。1.19 のように末尾の0は消す */
 const mul = (v) => (v == null ? '—' : `×${Number(v).toFixed(2).replace(/\.?0+$/, '')}`)
 const int = (v) => (v == null ? '—' : String(v))
@@ -366,9 +375,15 @@ function tenseiKind(key) {
   return null
 }
 
-function table(shape, list) {
+function table(shape, list, { blank = false } = {}) {
   const out = [`| ${shape.head.join(' | ')} |`, `| ${shape.align.join(' | ')} |`]
-  for (const i of list) out.push(`| ${shape.row(i, shape.of(i.key)).map(cell).join(' | ')} |`)
+  for (const i of list) {
+    const cells = shape.row(i, shape.of(i.key))
+    // blank のときは1列目（名前）だけ残して、ほかの欄は空マスにする（weapon-blank.json）。
+    // cell() は空を「—」に変えるので、空マスは cell() を通さず直に置く
+    const row = blank ? [cell(cells[0]), ...cells.slice(1).map(() => '')] : cells.map(cell)
+    out.push(`| ${row.join(' | ')} |`)
+  }
   return out
 }
 
@@ -411,7 +426,7 @@ function equipPage(page) {
       if (!group?.length) continue
       lines.push(`## ${k}（${group.length}種）`)
       lines.push('')
-      lines.push(...table(k === '杖' ? SHAPE.杖 : SHAPE.武器, group))
+      lines.push(...table(k === '杖' ? SHAPE.杖 : SHAPE.武器, group, { blank: BLANK_WEAPON_KINDS.has(k) }))
       lines.push(...(extra.get(k)?.rows ?? []))
       emitted.add(k)
       lines.push('')

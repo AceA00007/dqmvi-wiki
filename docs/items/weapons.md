@@ -307,70 +307,70 @@ pageClass: wide-page sortable-list
 
 | 武器 | こうげき | 攻撃倍率 | 特殊効果 |
 | --- | ---: | ---: | --- |
-| [旅人の銃](/items/tabibitonotanju) | 2 | ×1.1 | — |
-| [鉄環銃](/items/teturinriboruba) | 3 | ×1.28 | — |
-| [蒼鋼銃](/items/sanrenmadouju) | 4 | ×1.46 | — |
-| [爆裂銃](/items/bakuretusandanju) | 5 | ×1.64 | — |
-| [疾風銃](/items/shippukikanju) | 6 | ×1.82 | — |
-| [月影銃](/items/tukikagesogekiju) | 7 | ×2 | — |
-| [金剛銃](/items/kongoutetukouju) | 8 | ×2.18 | — |
-| [破城銃](/items/hajoutekidanju) | 9 | ×2.36 | — |
-| [紅蓮銃](/items/gurenhoushaju) | 10 | ×2.55 | — |
-| [氷晶銃](/items/hyousyoutouketuju) | 11 | ×2.73 | — |
-| [雷鳴銃](/items/raimeirensaju) | 13 | ×2.91 | — |
-| [蠱毒銃](/items/kodokusenshinju) | 15 | ×3.09 | — |
-| [白銀銃](/items/hakuginshuryouju) | 17 | ×3.27 | — |
-| [魔吸銃](/items/makyuuseireiju) | 19 | ×3.46 | — |
-| [癒光銃](/items/yukouengouju) | 20 | ×3.64 | — |
-| [魔獣銃](/items/majukeiyakuju) | 22 | ×3.82 | — |
-| [竜滅重砲](/items/ryuumetujuuhou) | 24 | ×3.91 | — |
-| [星穿神機砲](/items/seisenjinkihou) | 27 | ×4 | — |
+| [旅人の銃](/items/tabibitonotanju) |  |  |  |
+| [鉄環銃](/items/teturinriboruba) |  |  |  |
+| [蒼鋼銃](/items/sanrenmadouju) |  |  |  |
+| [爆裂銃](/items/bakuretusandanju) |  |  |  |
+| [疾風銃](/items/shippukikanju) |  |  |  |
+| [月影銃](/items/tukikagesogekiju) |  |  |  |
+| [金剛銃](/items/kongoutetukouju) |  |  |  |
+| [破城銃](/items/hajoutekidanju) |  |  |  |
+| [紅蓮銃](/items/gurenhoushaju) |  |  |  |
+| [氷晶銃](/items/hyousyoutouketuju) |  |  |  |
+| [雷鳴銃](/items/raimeirensaju) |  |  |  |
+| [蠱毒銃](/items/kodokusenshinju) |  |  |  |
+| [白銀銃](/items/hakuginshuryouju) |  |  |  |
+| [魔吸銃](/items/makyuuseireiju) |  |  |  |
+| [癒光銃](/items/yukouengouju) |  |  |  |
+| [魔獣銃](/items/majukeiyakuju) |  |  |  |
+| [竜滅重砲](/items/ryuumetujuuhou) |  |  |  |
+| [星穿神機砲](/items/seisenjinkihou) |  |  |  |
 
 ## 戦輪（18種）
 
 | 武器 | こうげき | 攻撃倍率 | 特殊効果 |
 | --- | ---: | ---: | --- |
-| [木の戦輪](/items/battle_ring_01_wood) | 2 | ×1.1 | — |
-| [青銅のチャクラム](/items/battle_ring_02_bronze) | 3 | ×1.28 | — |
-| [鉄の戦輪](/items/battle_ring_03_iron) | 4 | ×1.46 | — |
-| [はがねの戦輪](/items/battle_ring_04_steel) | 5 | ×1.64 | — |
-| [かぜきりの輪](/items/battle_ring_05_windcutter) | 6 | ×1.82 | — |
-| [どくがの戦輪](/items/battle_ring_06_poison_moth) | 7 | ×2 | — |
-| [ほのおのチャクラム](/items/battle_ring_07_flame) | 8 | ×2.18 | — |
-| [こおりの戦輪](/items/battle_ring_08_ice) | 9 | ×2.36 | — |
-| [いかずちの輪](/items/battle_ring_09_lightning) | 10 | ×2.55 | — |
-| [月影のチャクラム](/items/battle_ring_10_moonshadow) | 11 | ×2.73 | — |
-| [はやぶさの戦輪](/items/battle_ring_11_falcon) | 13 | ×2.91 | — |
-| [ドラゴンチャクラム](/items/battle_ring_12_dragon) | 15 | ×3.09 | — |
-| [まじんの戦輪](/items/battle_ring_13_demon) | 17 | ×3.27 | — |
-| [聖光のチャクラム](/items/battle_ring_14_holy_light) | 19 | ×3.46 | — |
-| [星巡りの輪](/items/battle_ring_15_star_orbit) | 20 | ×3.64 | — |
-| [天空の戦輪](/items/battle_ring_16_sky) | 22 | ×3.82 | — |
-| [神鳥のチャクラム](/items/battle_ring_17_divine_bird) | 24 | ×3.91 | — |
-| [神輪アルカナ](/items/battle_ring_18_arcana) | 27 | ×4 | — |
+| [木の戦輪](/items/battle_ring_01_wood) |  |  |  |
+| [青銅のチャクラム](/items/battle_ring_02_bronze) |  |  |  |
+| [鉄の戦輪](/items/battle_ring_03_iron) |  |  |  |
+| [はがねの戦輪](/items/battle_ring_04_steel) |  |  |  |
+| [かぜきりの輪](/items/battle_ring_05_windcutter) |  |  |  |
+| [どくがの戦輪](/items/battle_ring_06_poison_moth) |  |  |  |
+| [ほのおのチャクラム](/items/battle_ring_07_flame) |  |  |  |
+| [こおりの戦輪](/items/battle_ring_08_ice) |  |  |  |
+| [いかずちの輪](/items/battle_ring_09_lightning) |  |  |  |
+| [月影のチャクラム](/items/battle_ring_10_moonshadow) |  |  |  |
+| [はやぶさの戦輪](/items/battle_ring_11_falcon) |  |  |  |
+| [ドラゴンチャクラム](/items/battle_ring_12_dragon) |  |  |  |
+| [まじんの戦輪](/items/battle_ring_13_demon) |  |  |  |
+| [聖光のチャクラム](/items/battle_ring_14_holy_light) |  |  |  |
+| [星巡りの輪](/items/battle_ring_15_star_orbit) |  |  |  |
+| [天空の戦輪](/items/battle_ring_16_sky) |  |  |  |
+| [神鳥のチャクラム](/items/battle_ring_17_divine_bird) |  |  |  |
+| [神輪アルカナ](/items/battle_ring_18_arcana) |  |  |  |
 
 ## 竪琴（18種）
 
 | 武器 | こうげき | 攻撃倍率 | 特殊効果 |
 | --- | ---: | ---: | --- |
-| [旅人の竪琴](/items/harp_01_traveler) | 2 | ×1.1 | — |
-| [若木の竪琴](/items/harp_02_young_tree) | 3 | ×1.28 | — |
-| [青銅の竪琴](/items/harp_03_bronze) | 4 | ×1.46 | — |
-| [銀の竪琴](/items/harp_04_silver) | 5 | ×1.64 | — |
-| [そよ風の竪琴](/items/harp_05_breeze) | 6 | ×1.82 | — |
-| [まどろみの竪琴](/items/harp_06_slumber) | 7 | ×2 | — |
-| [いやしの竪琴](/items/harp_07_healing) | 8 | ×2.18 | — |
-| [人魚の竪琴](/items/harp_08_mermaid) | 9 | ×2.36 | — |
-| [精霊の竪琴](/items/harp_09_spirit) | 10 | ×2.55 | — |
-| [雷鳴の竪琴](/items/harp_10_thunder) | 11 | ×2.73 | — |
-| [月夜の竪琴](/items/harp_11_moonlit) | 13 | ×2.91 | — |
-| [竜歌の竪琴](/items/harp_12_dragon_song) | 15 | ×3.09 | — |
-| [天使の竪琴](/items/harp_13_angel) | 17 | ×3.27 | — |
-| [星詠みの竪琴](/items/harp_14_star_reader) | 19 | ×3.46 | — |
-| [英雄の竪琴](/items/harp_15_hero) | 20 | ×3.64 | — |
-| [天空の竪琴](/items/harp_16_sky) | 22 | ×3.82 | — |
-| [神託の竪琴](/items/harp_17_oracle) | 24 | ×3.91 | — |
-| [神奏琴オルフェリア](/items/harp_18_orphelia) | 27 | ×4 | — |
+| [旅人の竪琴](/items/harp_01_traveler) |  |  |  |
+| [若木の竪琴](/items/harp_02_young_tree) |  |  |  |
+| [青銅の竪琴](/items/harp_03_bronze) |  |  |  |
+| [銀の竪琴](/items/harp_04_silver) |  |  |  |
+| [そよ風の竪琴](/items/harp_05_breeze) |  |  |  |
+| [まどろみの竪琴](/items/harp_06_slumber) |  |  |  |
+| [いやしの竪琴](/items/harp_07_healing) |  |  |  |
+| [人魚の竪琴](/items/harp_08_mermaid) |  |  |  |
+| [精霊の竪琴](/items/harp_09_spirit) |  |  |  |
+| [雷鳴の竪琴](/items/harp_10_thunder) |  |  |  |
+| [月夜の竪琴](/items/harp_11_moonlit) |  |  |  |
+| [竜歌の竪琴](/items/harp_12_dragon_song) |  |  |  |
+| [天使の竪琴](/items/harp_13_angel) |  |  |  |
+| [星詠みの竪琴](/items/harp_14_star_reader) |  |  |  |
+| [英雄の竪琴](/items/harp_15_hero) |  |  |  |
+| [天空の竪琴](/items/harp_16_sky) |  |  |  |
+| [神託の竪琴](/items/harp_17_oracle) |  |  |  |
+| [神奏琴オルフェリア](/items/harp_18_orphelia) |  |  |  |
 
 杖には武器としての攻撃力がなく、「魔力倍率」が呪文の威力にかかります。
 
