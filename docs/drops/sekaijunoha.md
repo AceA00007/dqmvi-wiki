@@ -15,15 +15,15 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ベホイミスライム](/monsters/behoimisuraimu) | レア | 3 | [スライム](/species/slime) | 68 | 77 | 妖精の花畑・ネザー・海 |
-| [ベホマスライム](/monsters/behomasuraimu) | レア | 6 | [スライム](/species/slime) | 864 | 320 | 海 |
-| [グランスライム](/monsters/grandpaslime) | レア | 6 | [スライム](/species/slime) | 896 | 333 | ふつうの土地 |
-| [サボテンボール](/monsters/sabotenboru) | 超レア | 1 | [自然](/species/sizen) | 23 | 12 | 黄金の砂漠 |
-| [ホイミスライム](/monsters/hoimisura) | 超レア | 2 | [スライム](/species/slime) | 38 | 30 | 妖精の花畑・海 |
-| [きりかぶおばけ](/monsters/kirikabuobake) | 超レア | 2 | [自然](/species/sizen) | 40 | 41 | タマゴロン草原・おばけキノコの森 |
-| [エンゼルスライム](/monsters/enzeruslime) | 超レア | 5 | [スライム](/species/slime) | 343 | 210 | 妖精の花畑 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ベホイミスライム](/monsters/behoimisuraimu) | レア | 3 | [スライム](/species/slime) | 68 | 77 |
+| [ベホマスライム](/monsters/behomasuraimu) | レア | 6 | [スライム](/species/slime) | 864 | 320 |
+| [グランスライム](/monsters/grandpaslime) | レア | 6 | [スライム](/species/slime) | 896 | 333 |
+| [サボテンボール](/monsters/sabotenboru) | 超レア | 1 | [自然](/species/sizen) | 23 | 12 |
+| [ホイミスライム](/monsters/hoimisura) | 超レア | 2 | [スライム](/species/slime) | 38 | 30 |
+| [きりかぶおばけ](/monsters/kirikabuobake) | 超レア | 2 | [自然](/species/sizen) | 40 | 41 |
+| [エンゼルスライム](/monsters/enzeruslime) | 超レア | 5 | [スライム](/species/slime) | 343 | 210 |
 
 見出しを押すと並べ替えできます。
 

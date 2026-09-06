@@ -27,9 +27,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ダイヤモンドスライム](/monsters/daiyamondosuraimu) | 超レア | 6 | [メタル](/species/metal) | 42 | 80,000 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ダイヤモンドスライム](/monsters/daiyamondosuraimu) | 超レア | 6 | [メタル](/species/metal) | 42 | 80,000 |
 
 見出しを押すと並べ替えできます。
 

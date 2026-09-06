@@ -15,18 +15,18 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ぶちスライム](/monsters/butisuraimu) | レア | 1 | [スライム](/species/slime) | 8 | 4 | スライム湿原 |
-| [タマゴロン](/monsters/tamagoron) | レア | 1 | [自然](/species/sizen) | 12 | 6 | タマゴロン草原 |
-| [とげぼうず](/monsters/togebouzu) | レア | 1 | [物質](/species/bussitu) | 13 | 7 | ゴーレム岩石遺跡 |
-| [マンドラ](/monsters/mandora) | レア | 1 | [スライム](/species/slime) | 15 | 9 | ふつうの土地 |
-| [おおがらす](/monsters/greatraven) | レア | 1 | [自然](/species/sizen) | 12 | 9 | ふつうの土地 |
-| [ナスビナーラ](/monsters/nasubira) | レア | 1 | [自然](/species/sizen) | 21 | 11 | おばけキノコの森 |
-| [まほうつかい](/monsters/magician) | レア | 1 | [悪魔](/species/akuma) | 15 | 13 | ふつうの土地 |
-| [はさみくわがた](/monsters/scissorbeatle) | レア | 1 | [自然](/species/sizen) | 26 | 14 | ふつうの土地 |
-| [ブチュチュンパ](/monsters/buchunpa) | レア | 4 | [自然](/species/sizen) | 168 | 142 | ふつうの土地 |
-| [ピクシー](/monsters/pikusi) | レア | 4 | [悪魔](/species/akuma) | 178 | 147 | 妖精の花畑 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ぶちスライム](/monsters/butisuraimu) | レア | 1 | [スライム](/species/slime) | 8 | 4 |
+| [タマゴロン](/monsters/tamagoron) | レア | 1 | [自然](/species/sizen) | 12 | 6 |
+| [とげぼうず](/monsters/togebouzu) | レア | 1 | [物質](/species/bussitu) | 13 | 7 |
+| [マンドラ](/monsters/mandora) | レア | 1 | [スライム](/species/slime) | 15 | 9 |
+| [おおがらす](/monsters/greatraven) | レア | 1 | [自然](/species/sizen) | 12 | 9 |
+| [ナスビナーラ](/monsters/nasubira) | レア | 1 | [自然](/species/sizen) | 21 | 11 |
+| [まほうつかい](/monsters/magician) | レア | 1 | [悪魔](/species/akuma) | 15 | 13 |
+| [はさみくわがた](/monsters/scissorbeatle) | レア | 1 | [自然](/species/sizen) | 26 | 14 |
+| [ブチュチュンパ](/monsters/buchunpa) | レア | 4 | [自然](/species/sizen) | 168 | 142 |
+| [ピクシー](/monsters/pikusi) | レア | 4 | [悪魔](/species/akuma) | 178 | 147 |
 
 見出しを押すと並べ替えできます。
 

@@ -15,26 +15,26 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [スライム](/monsters/sura) | 通常 | 1 | [スライム](/species/slime) | 5 | 2 | スライム湿原・タマゴロン草原 |
-| [スライムベス](/monsters/suraimubesu) | 通常 | 1 | [スライム](/species/slime) | 7 | 2 | スライム湿原 |
-| [スライムB](/monsters/slime_b) | 通常 | 1 | [スライム](/species/slime) | 5 | 2 | スライム湿原・タマゴロン草原 |
-| [おにこぞう](/monsters/onikozou2) | 通常 | 1 | [悪魔](/species/akuma) | 18 | 10 | ふつうの土地 |
-| [ライムスライム](/monsters/raimusuraimu) | 通常 | 1 | [スライム](/species/slime) | 18 | 11 | スライム湿原 |
-| [レモンスライム](/monsters/remonsuraimu) | 通常 | 1 | [スライム](/species/slime) | 20 | 11 | スライム湿原・黄金の砂漠 |
-| [ボックススライムブルー](/monsters/boxsuraimu_ao) | 通常 | 1 | [スライム](/species/slime) | 15 | 13 | スライム湿原 |
-| [マル](/monsters/maru) | 通常 | 1 | [物質](/species/bussitu) | 24 | 13 | ふつうの土地 |
-| [はねスライム](/monsters/hane_suraimu) | 通常 | 1 | [スライム](/species/slime) | 23 | 14 | ふつうの土地 |
-| [ウパソルジャー](/monsters/upasoruja) | 通常 | 1 | [自然](/species/sizen) | 22 | 15 | ふつうの土地 |
-| [ドラゴスライム](/monsters/dragosuraimu) | 通常 | 2 | [スライム](/species/slime) | 36 | 35 | ドラゴン火山帯 |
-| [強スライム](/monsters/sura2) | 通常 | 4 | [スライム](/species/slime) | 165 | 144 | ふつうの土地 |
-| [キングスライムもどき](/monsters/suraimuking) | 通常 | 4 | [スライム](/species/slime) | 198 | 148 | スライム湿原 |
-| [たこまじん](/monsters/takomajin) | 通常 | 4 | [自然](/species/sizen) | 175 | 159 | ふつうの土地 |
-| [クリスタルスライム](/monsters/crystalslime) | 通常 | 4 | [スライム](/species/slime) | 198 | 199 | ふつうの土地 |
-| [マッシュスライム](/monsters/slimeshroom) | レア | 1 | [スライム](/species/slime) | 22 | 12 | ふつうの土地 |
-| [ホイミスライム](/monsters/hoimisura) | レア | 2 | [スライム](/species/slime) | 38 | 30 | 妖精の花畑・海 |
-| [ボックススライムレッド](/monsters/boxsuraimu_aka) | レア | 2 | [スライム](/species/slime) | 48 | 50 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [スライム](/monsters/sura) | 通常 | 1 | [スライム](/species/slime) | 5 | 2 |
+| [スライムベス](/monsters/suraimubesu) | 通常 | 1 | [スライム](/species/slime) | 7 | 2 |
+| [スライムB](/monsters/slime_b) | 通常 | 1 | [スライム](/species/slime) | 5 | 2 |
+| [おにこぞう](/monsters/onikozou2) | 通常 | 1 | [悪魔](/species/akuma) | 18 | 10 |
+| [ライムスライム](/monsters/raimusuraimu) | 通常 | 1 | [スライム](/species/slime) | 18 | 11 |
+| [レモンスライム](/monsters/remonsuraimu) | 通常 | 1 | [スライム](/species/slime) | 20 | 11 |
+| [ボックススライムブルー](/monsters/boxsuraimu_ao) | 通常 | 1 | [スライム](/species/slime) | 15 | 13 |
+| [マル](/monsters/maru) | 通常 | 1 | [物質](/species/bussitu) | 24 | 13 |
+| [はねスライム](/monsters/hane_suraimu) | 通常 | 1 | [スライム](/species/slime) | 23 | 14 |
+| [ウパソルジャー](/monsters/upasoruja) | 通常 | 1 | [自然](/species/sizen) | 22 | 15 |
+| [ドラゴスライム](/monsters/dragosuraimu) | 通常 | 2 | [スライム](/species/slime) | 36 | 35 |
+| [強スライム](/monsters/sura2) | 通常 | 4 | [スライム](/species/slime) | 165 | 144 |
+| [キングスライムもどき](/monsters/suraimuking) | 通常 | 4 | [スライム](/species/slime) | 198 | 148 |
+| [たこまじん](/monsters/takomajin) | 通常 | 4 | [自然](/species/sizen) | 175 | 159 |
+| [クリスタルスライム](/monsters/crystalslime) | 通常 | 4 | [スライム](/species/slime) | 198 | 199 |
+| [マッシュスライム](/monsters/slimeshroom) | レア | 1 | [スライム](/species/slime) | 22 | 12 |
+| [ホイミスライム](/monsters/hoimisura) | レア | 2 | [スライム](/species/slime) | 38 | 30 |
+| [ボックススライムレッド](/monsters/boxsuraimu_aka) | レア | 2 | [スライム](/species/slime) | 48 | 50 |
 
 見出しを押すと並べ替えできます。
 

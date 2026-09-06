@@ -27,10 +27,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ダークホビット](/monsters/dakuhobitto) | 超レア | 7 | [物質](/species/bussitu) | 1,725 | 678 | ふつうの土地 |
-| [謎のバケモノ](/monsters/nazonobakemono) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,853 | 994 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ダークホビット](/monsters/dakuhobitto) | 超レア | 7 | [物質](/species/bussitu) | 1,725 | 678 |
+| [謎のバケモノ](/monsters/nazonobakemono) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,853 | 994 |
 
 見出しを押すと並べ替えできます。
 

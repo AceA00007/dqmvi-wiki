@@ -15,10 +15,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [スライムマデュラ](/monsters/suraimumadyura) | 超レア | 7 | [スライム](/species/slime) | 1,695 | 700 | ふつうの土地 |
-| [ドラゴメタル](/monsters/dragometaru) | 超レア | 4 | [メタル](/species/metal) | 25 | 21,000 | ネザー |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [スライムマデュラ](/monsters/suraimumadyura) | 超レア | 7 | [スライム](/species/slime) | 1,695 | 700 |
+| [ドラゴメタル](/monsters/dragometaru) | 超レア | 4 | [メタル](/species/metal) | 25 | 21,000 |
 
 見出しを押すと並べ替えできます。
 

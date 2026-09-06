@@ -26,12 +26,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [プオーン](/monsters/puohn) | 超レア | 5 | [魔獣](/species/majyu) | 411 | 261 | ふつうの土地 |
-| [トロル](/monsters/tororu) | 超レア | 5 | [悪魔](/species/akuma) | 679 | 287 | ふつうの土地 |
-| [グレイトライドン](/monsters/greatridon) | 超レア | 5 | [ゾンビ](/species/zombie) | 521 | 298 | ネザー |
-| [ヘルクラッシャー](/monsters/herukurassya) | 超レア | 5 | [ゾンビ](/species/zombie) | 621 | 320 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [プオーン](/monsters/puohn) | 超レア | 5 | [魔獣](/species/majyu) | 411 | 261 |
+| [トロル](/monsters/tororu) | 超レア | 5 | [悪魔](/species/akuma) | 679 | 287 |
+| [グレイトライドン](/monsters/greatridon) | 超レア | 5 | [ゾンビ](/species/zombie) | 521 | 298 |
+| [ヘルクラッシャー](/monsters/herukurassya) | 超レア | 5 | [ゾンビ](/species/zombie) | 621 | 320 |
 
 見出しを押すと並べ替えできます。
 

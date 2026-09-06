@@ -15,11 +15,11 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ゴールデントーテム](/monsters/gorudentotemu) | レア | 4 | [メタル](/species/metal) | 25 | 105 | ふつうの土地 |
-| [ゴールデンスライム](/monsters/gorudensuraimu) | レア | 5 | [メタル](/species/metal) | 32 | 300 | ふつうの土地 |
-| [ゴールドマン](/monsters/goldman) | レア | 6 | [物質](/species/bussitu) | 1,248 | 435 | ゴーレム岩石遺跡 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ゴールデントーテム](/monsters/gorudentotemu) | レア | 4 | [メタル](/species/metal) | 25 | 105 |
+| [ゴールデンスライム](/monsters/gorudensuraimu) | レア | 5 | [メタル](/species/metal) | 32 | 300 |
+| [ゴールドマン](/monsters/goldman) | レア | 6 | [物質](/species/bussitu) | 1,248 | 435 |
 
 見出しを押すと並べ替えできます。
 

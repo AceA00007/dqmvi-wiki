@@ -15,12 +15,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [スターキメラ](/monsters/starkimera) | レア | 7 | [自然](/species/sizen) | 1,770 | 628 | 魔法の森・キメラの断崖 |
-| [デーモンソード](/monsters/demonsodo) | レア | 7 | [ゾンビ](/species/zombie) | 2,222 | 867 | 果ての世界 |
-| [メイジキメラ](/monsters/meijikimera) | 超レア | 4 | [自然](/species/sizen) | 186 | 168 | キメラの断崖 |
-| [キースドラゴン](/monsters/keethdragon2) | 超レア | 4 | [ドラゴン](/species/dragon) | 205 | 178 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [スターキメラ](/monsters/starkimera) | レア | 7 | [自然](/species/sizen) | 1,770 | 628 |
+| [デーモンソード](/monsters/demonsodo) | レア | 7 | [ゾンビ](/species/zombie) | 2,222 | 867 |
+| [メイジキメラ](/monsters/meijikimera) | 超レア | 4 | [自然](/species/sizen) | 186 | 168 |
+| [キースドラゴン](/monsters/keethdragon2) | 超レア | 4 | [ドラゴン](/species/dragon) | 205 | 178 |
 
 見出しを押すと並べ替えできます。
 

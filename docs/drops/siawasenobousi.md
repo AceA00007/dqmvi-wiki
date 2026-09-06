@@ -27,10 +27,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [マジカルハット](/monsters/majikaruhatto) | 超レア | 6 | [魔獣](/species/majyu) | 824 | 333 | 魔法の森 |
-| [じごくのきし](/monsters/jigokunokisi) | 超レア | 6 | [ゾンビ](/species/zombie) | 1,202 | 454 | 果ての世界 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [マジカルハット](/monsters/majikaruhatto) | 超レア | 6 | [魔獣](/species/majyu) | 824 | 333 |
+| [じごくのきし](/monsters/jigokunokisi) | 超レア | 6 | [ゾンビ](/species/zombie) | 1,202 | 454 |
 
 見出しを押すと並べ替えできます。
 

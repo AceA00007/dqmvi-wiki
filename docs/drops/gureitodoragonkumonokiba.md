@@ -26,9 +26,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [グレイトドラゴン・雲](/monsters/gureitodoragonkumo) | 通常 | 4 | [ドラゴン](/species/dragon) | 1,789 | 3,315 | ネザー |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [グレイトドラゴン・雲](/monsters/gureitodoragonkumo) | 通常 | 4 | [ドラゴン](/species/dragon) | 1,789 | 3,315 |
 
 見出しを押すと並べ替えできます。
 

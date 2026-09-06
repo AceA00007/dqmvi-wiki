@@ -15,10 +15,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [あくまのツボ](/monsters/akumanotubo) | 超レア | 4 | [特殊](/species/tokusyu) | 165 | 182 | ミミックの宝物窟 |
-| [ミミック木箱](/monsters/mimikkukibako) | 超レア | 4 | [特殊](/species/tokusyu) | 198 | 189 | ミミックの宝物窟 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [あくまのツボ](/monsters/akumanotubo) | 超レア | 4 | [特殊](/species/tokusyu) | 165 | 182 |
+| [ミミック木箱](/monsters/mimikkukibako) | 超レア | 4 | [特殊](/species/tokusyu) | 198 | 189 |
 
 見出しを押すと並べ替えできます。
 

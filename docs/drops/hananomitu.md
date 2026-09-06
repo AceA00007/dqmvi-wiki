@@ -15,21 +15,21 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ぶちスライム](/monsters/butisuraimu) | 通常 | 1 | [スライム](/species/slime) | 8 | 4 | スライム湿原 |
-| [カバシラー](/monsters/swarmtroop) | 通常 | 1 | [自然](/species/sizen) | 12 | 6 | ふつうの土地 |
-| [マンドラ](/monsters/mandora) | 通常 | 1 | [スライム](/species/slime) | 15 | 9 | ふつうの土地 |
-| [メーダ](/monsters/meda) | 通常 | 1 | [悪魔](/species/akuma) | 16 | 13 | ふつうの土地 |
-| [ナイトウイプス](/monsters/naitouipusu) | レア | 1 | [ゾンビ](/species/zombie) | 20 | 9 | ふつうの土地 |
-| [ビーンファイター](/monsters/binfaita) | レア | 1 | [自然](/species/sizen) | 15 | 9 | ふつうの土地 |
-| [レモンスライム](/monsters/remonsuraimu) | レア | 1 | [スライム](/species/slime) | 20 | 11 | スライム湿原・黄金の砂漠 |
-| [はねスライム](/monsters/hane_suraimu) | レア | 1 | [スライム](/species/slime) | 23 | 14 | ふつうの土地 |
-| [スライムタール](/monsters/slimetar) | レア | 1 | [スライム](/species/slime) | 27 | 14 | ふつうの土地 |
-| [キャタピラー](/monsters/caterpillar) | レア | 1 | [自然](/species/sizen) | 24 | 15 | ふつうの土地 |
-| [おおめだま](/monsters/oomedama) | レア | 2 | [悪魔](/species/akuma) | 45 | 39 | ふつうの土地 |
-| [おおきづち](/monsters/ookiduti) | レア | 2 | [魔獣](/species/majyu) | 42 | 40 | ふつうの土地 |
-| [りゅうき兵](/monsters/mandrake_mercenary) | レア | 2 | [ドラゴン](/species/dragon) | 64 | 54 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ぶちスライム](/monsters/butisuraimu) | 通常 | 1 | [スライム](/species/slime) | 8 | 4 |
+| [カバシラー](/monsters/swarmtroop) | 通常 | 1 | [自然](/species/sizen) | 12 | 6 |
+| [マンドラ](/monsters/mandora) | 通常 | 1 | [スライム](/species/slime) | 15 | 9 |
+| [メーダ](/monsters/meda) | 通常 | 1 | [悪魔](/species/akuma) | 16 | 13 |
+| [ナイトウイプス](/monsters/naitouipusu) | レア | 1 | [ゾンビ](/species/zombie) | 20 | 9 |
+| [ビーンファイター](/monsters/binfaita) | レア | 1 | [自然](/species/sizen) | 15 | 9 |
+| [レモンスライム](/monsters/remonsuraimu) | レア | 1 | [スライム](/species/slime) | 20 | 11 |
+| [はねスライム](/monsters/hane_suraimu) | レア | 1 | [スライム](/species/slime) | 23 | 14 |
+| [スライムタール](/monsters/slimetar) | レア | 1 | [スライム](/species/slime) | 27 | 14 |
+| [キャタピラー](/monsters/caterpillar) | レア | 1 | [自然](/species/sizen) | 24 | 15 |
+| [おおめだま](/monsters/oomedama) | レア | 2 | [悪魔](/species/akuma) | 45 | 39 |
+| [おおきづち](/monsters/ookiduti) | レア | 2 | [魔獣](/species/majyu) | 42 | 40 |
+| [りゅうき兵](/monsters/mandrake_mercenary) | レア | 2 | [ドラゴン](/species/dragon) | 64 | 54 |
 
 見出しを押すと並べ替えできます。
 

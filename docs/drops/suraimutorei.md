@@ -27,9 +27,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [スライムベス](/monsters/suraimubesu) | 超レア | 1 | [スライム](/species/slime) | 7 | 2 | スライム湿原 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [スライムベス](/monsters/suraimubesu) | 超レア | 1 | [スライム](/species/slime) | 7 | 2 |
 
 見出しを押すと並べ替えできます。
 

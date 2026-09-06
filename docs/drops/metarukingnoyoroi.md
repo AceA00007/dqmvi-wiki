@@ -27,10 +27,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [はぐれメタルキング](/monsters/haguremetaruking) | 超レア | 7 | [メタル](/species/metal) | 135 | 500,000 | ふつうの土地 |
-| [メタルスター](/monsters/metalstar) | 超レア | 7 | [メタル](/species/metal) | 165 | 700,000 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [はぐれメタルキング](/monsters/haguremetaruking) | 超レア | 7 | [メタル](/species/metal) | 135 | 500,000 |
+| [メタルスター](/monsters/metalstar) | 超レア | 7 | [メタル](/species/metal) | 165 | 700,000 |
 
 見出しを押すと並べ替えできます。
 

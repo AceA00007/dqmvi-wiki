@@ -15,12 +15,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [キラークラブ](/monsters/kirakurabu) | 超レア | 7 | [自然](/species/sizen) | 1,800 | 675 | 沈没魔物海・海 |
-| [ロイヤルミミック](/monsters/tansu_royal) | 超レア | 7 | [物質](/species/bussitu) | 2,261 | 695 | ミミックの宝物窟 |
-| [ストーンマン](/monsters/stonman) | 超レア | 7 | [物質](/species/bussitu) | 2,580 | 792 | ゴーレム岩石遺跡 |
-| [コキュードス](/monsters/cocytus) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,438 | 888 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [キラークラブ](/monsters/kirakurabu) | 超レア | 7 | [自然](/species/sizen) | 1,800 | 675 |
+| [ロイヤルミミック](/monsters/tansu_royal) | 超レア | 7 | [物質](/species/bussitu) | 2,261 | 695 |
+| [ストーンマン](/monsters/stonman) | 超レア | 7 | [物質](/species/bussitu) | 2,580 | 792 |
+| [コキュードス](/monsters/cocytus) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,438 | 888 |
 
 見出しを押すと並べ替えできます。
 

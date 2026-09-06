@@ -15,11 +15,11 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [いっかくうさぎ](/monsters/ikkakuusagi) | 通常 | 1 | [魔獣](/species/majyu) | 18 | 11 | タマゴロン草原・氷結のトゲ平原 |
-| [ピンクモーモン](/monsters/pinkmomon) | 通常 | 2 | [悪魔](/species/akuma) | 55 | 45 | 妖精の花畑 |
-| [モーモン](/monsters/momon) | レア | 1 | [悪魔](/species/akuma) | 12 | 5 | タマゴロン草原・妖精の花畑 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [いっかくうさぎ](/monsters/ikkakuusagi) | 通常 | 1 | [魔獣](/species/majyu) | 18 | 11 |
+| [ピンクモーモン](/monsters/pinkmomon) | 通常 | 2 | [悪魔](/species/akuma) | 55 | 45 |
+| [モーモン](/monsters/momon) | レア | 1 | [悪魔](/species/akuma) | 12 | 5 |
 
 見出しを押すと並べ替えできます。
 

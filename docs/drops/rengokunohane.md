@@ -15,33 +15,33 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [メラゴースト](/monsters/meragosuto) | 通常 | 2 | [ゾンビ](/species/zombie) | 36 | 34 | ゴースト霧森 |
-| [しびれあげは](/monsters/sibireageha) | 通常 | 3 | [自然](/species/sizen) | 84 | 76 | キメラの断崖 |
-| [しっぽ団のダックスビル](/monsters/platypunk_duckbill) | 通常 | 3 | [魔獣](/species/majyu) | 76 | 89 | ふつうの土地 |
-| [ともしびこぞう](/monsters/tomosibikozou) | 通常 | 3 | [物質](/species/bussitu) | 83 | 90 | ネザー |
-| [こうてつまじん](/monsters/metalheavy) | 通常 | 3 | [物質](/species/bussitu) | 104 | 96 | ふつうの土地 |
-| [おにこんぼう](/monsters/onikonbou) | 通常 | 3 | [ドラゴン](/species/dragon) | 172 | 111 | ふつうの土地 |
-| [りゅうせんし](/monsters/mandrake_marauder) | 通常 | 3 | [ドラゴン](/species/dragon) | 145 | 121 | ふつうの土地 |
-| [がいこつけんし](/monsters/gaikotsukenshi2) | 通常 | 3 | [ゾンビ](/species/zombie) | 155 | 123 | ネザー |
-| [ベビーニュート](/monsters/bebinyuto) | 通常 | 3 | [ドラゴン](/species/dragon) | 151 | 124 | ふつうの土地 |
-| [ヒートギズモ1](/monsters/hgizumo) | 通常 | 5 | [物質](/species/bussitu) | 490 | 248 | ネザー |
-| [ヒートギズモ2](/monsters/hiitogizumo) | 通常 | 5 | [物質](/species/bussitu) | 494 | 253 | ネザー |
-| [ようがんまじん](/monsters/youganmajin) | 通常 | 5 | [物質](/species/bussitu) | 556 | 285 | ネザー |
-| [ひとくいが](/monsters/hitokuiga) | レア | 2 | [自然](/species/sizen) | 53 | 41 | キメラの断崖 |
-| [キメラ](/monsters/kimera) | レア | 2 | [自然](/species/sizen) | 46 | 48 | キメラの断崖 |
-| [おおさそり](/monsters/big_scorpion) | レア | 2 | [自然](/species/sizen) | 65 | 50 | ふつうの土地 |
-| [たんすミミック](/monsters/tansu) | レア | 2 | [物質](/species/bussitu) | 57 | 51 | ミミックの宝物窟 |
-| [マーマン](/monsters/merman) | レア | 2 | [自然](/species/sizen) | 63 | 55 | ふつうの土地 |
-| [くさった死体](/monsters/kusattasitai) | レア | 2 | [ゾンビ](/species/zombie) | 80 | 60 | ふつうの土地 |
-| [メラリザード](/monsters/merazado) | レア | 2 | [ドラゴン](/species/dragon) | 53 | 62 | ふつうの土地 |
-| [スライムブレス](/monsters/suraimuburesu) | レア | 4 | [スライム](/species/slime) | 180 | 160 | スライム湿原 |
-| [おおがらす](/monsters/big_crow) | 超レア | 1 | [自然](/species/sizen) | 13 | 7 | キメラの断崖 |
-| [エビルアップル](/monsters/ebiruapple) | 超レア | 1 | [自然](/species/sizen) | 22 | 12 | タマゴロン草原・おばけキノコの森 |
-| [ねこまどう](/monsters/nekomadou) | 超レア | 1 | [魔獣](/species/majyu) | 11 | 12 | ふつうの土地 |
-| [スカルサーペント](/monsters/skullserpent) | 超レア | 1 | [ゾンビ](/species/zombie) | 23 | 13 | ふつうの土地 |
-| [スライムタール](/monsters/slimetar) | 超レア | 1 | [スライム](/species/slime) | 27 | 14 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [メラゴースト](/monsters/meragosuto) | 通常 | 2 | [ゾンビ](/species/zombie) | 36 | 34 |
+| [しびれあげは](/monsters/sibireageha) | 通常 | 3 | [自然](/species/sizen) | 84 | 76 |
+| [しっぽ団のダックスビル](/monsters/platypunk_duckbill) | 通常 | 3 | [魔獣](/species/majyu) | 76 | 89 |
+| [ともしびこぞう](/monsters/tomosibikozou) | 通常 | 3 | [物質](/species/bussitu) | 83 | 90 |
+| [こうてつまじん](/monsters/metalheavy) | 通常 | 3 | [物質](/species/bussitu) | 104 | 96 |
+| [おにこんぼう](/monsters/onikonbou) | 通常 | 3 | [ドラゴン](/species/dragon) | 172 | 111 |
+| [りゅうせんし](/monsters/mandrake_marauder) | 通常 | 3 | [ドラゴン](/species/dragon) | 145 | 121 |
+| [がいこつけんし](/monsters/gaikotsukenshi2) | 通常 | 3 | [ゾンビ](/species/zombie) | 155 | 123 |
+| [ベビーニュート](/monsters/bebinyuto) | 通常 | 3 | [ドラゴン](/species/dragon) | 151 | 124 |
+| [ヒートギズモ1](/monsters/hgizumo) | 通常 | 5 | [物質](/species/bussitu) | 490 | 248 |
+| [ヒートギズモ2](/monsters/hiitogizumo) | 通常 | 5 | [物質](/species/bussitu) | 494 | 253 |
+| [ようがんまじん](/monsters/youganmajin) | 通常 | 5 | [物質](/species/bussitu) | 556 | 285 |
+| [ひとくいが](/monsters/hitokuiga) | レア | 2 | [自然](/species/sizen) | 53 | 41 |
+| [キメラ](/monsters/kimera) | レア | 2 | [自然](/species/sizen) | 46 | 48 |
+| [おおさそり](/monsters/big_scorpion) | レア | 2 | [自然](/species/sizen) | 65 | 50 |
+| [たんすミミック](/monsters/tansu) | レア | 2 | [物質](/species/bussitu) | 57 | 51 |
+| [マーマン](/monsters/merman) | レア | 2 | [自然](/species/sizen) | 63 | 55 |
+| [くさった死体](/monsters/kusattasitai) | レア | 2 | [ゾンビ](/species/zombie) | 80 | 60 |
+| [メラリザード](/monsters/merazado) | レア | 2 | [ドラゴン](/species/dragon) | 53 | 62 |
+| [スライムブレス](/monsters/suraimuburesu) | レア | 4 | [スライム](/species/slime) | 180 | 160 |
+| [おおがらす](/monsters/big_crow) | 超レア | 1 | [自然](/species/sizen) | 13 | 7 |
+| [エビルアップル](/monsters/ebiruapple) | 超レア | 1 | [自然](/species/sizen) | 22 | 12 |
+| [ねこまどう](/monsters/nekomadou) | 超レア | 1 | [魔獣](/species/majyu) | 11 | 12 |
+| [スカルサーペント](/monsters/skullserpent) | 超レア | 1 | [ゾンビ](/species/zombie) | 23 | 13 |
+| [スライムタール](/monsters/slimetar) | 超レア | 1 | [スライム](/species/slime) | 27 | 14 |
 
 見出しを押すと並べ替えできます。
 

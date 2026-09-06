@@ -27,9 +27,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [がいこつけんし](/monsters/gaikotukensi) | 超レア | 5 | [ゾンビ](/species/zombie) | 329 | 225 | 魔物の骨荒野 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [がいこつけんし](/monsters/gaikotukensi) | 超レア | 5 | [ゾンビ](/species/zombie) | 329 | 225 |
 
 見出しを押すと並べ替えできます。
 

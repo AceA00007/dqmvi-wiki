@@ -26,9 +26,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [さまようよろい](/monsters/samayouyoroi) | 超レア | 4 | [ゾンビ](/species/zombie) | 186 | 182 | 魔物の骨荒野 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [さまようよろい](/monsters/samayouyoroi) | 超レア | 4 | [ゾンビ](/species/zombie) | 186 | 182 |
 
 見出しを押すと並べ替えできます。
 

@@ -12,33 +12,33 @@ pageClass: wide-page sortable-list
 
 | 釣り竿 | 入手方法 |
 | --- | --- |
-| [入門ロッド](/items/turizao1) | 鍛冶 |
-| [スピニングロッド](/items/turizao2) | 鍛冶 |
-| [ベイトロッド](/items/turizao3) | 鍛冶 |
-| [ジギングロッド](/items/turizao4) | 鍛冶 |
-| [投げ竿](/items/turizao5) | 鍛冶 |
-| [磯竿](/items/turizao6) | 鍛冶 |
-| [トラウトロッド](/items/turizao7) | 鍛冶 |
-| [フライロッド](/items/turizao8) | 鍛冶 |
-| [深海ロッド](/items/turizao9) | 鍛冶 |
-| [黄金ロッド](/items/turizao10) | 鍛冶 |
-| [伝説の釣り竿](/items/turizao11) | 釣り図鑑の完成 |
+| [入門ロッド](/items/turizao1) | — |
+| [スピニングロッド](/items/turizao2) | — |
+| [ベイトロッド](/items/turizao3) | — |
+| [ジギングロッド](/items/turizao4) | — |
+| [投げ竿](/items/turizao5) | — |
+| [磯竿](/items/turizao6) | — |
+| [トラウトロッド](/items/turizao7) | — |
+| [フライロッド](/items/turizao8) | — |
+| [深海ロッド](/items/turizao9) | — |
+| [黄金ロッド](/items/turizao10) | — |
+| [伝説の釣り竿](/items/turizao11) | — |
 
 ## ルアー（11種）
 
 | ルアー | 入手方法 |
 | --- | --- |
-| [ミノー](/items/rua1) | 鍛冶 |
-| [クランクベイト](/items/rua2) | 鍛冶 |
-| [ポッパー](/items/rua3) | 鍛冶 |
-| [メタルジグ](/items/rua4) | 鍛冶 |
-| [スプーン](/items/rua5) | 鍛冶 |
-| [スピナー](/items/rua6) | 鍛冶 |
-| [ワーム](/items/rua7) | 鍛冶 |
-| [フロッグ](/items/rua8) | 鍛冶 |
-| [エギ](/items/rua9) | 鍛冶 |
-| [ペンシルベイト](/items/rua10) | 鍛冶 |
-| [伝説のルアー](/items/rua11) | 釣り図鑑の完成 |
+| [ミノー](/items/rua1) | — |
+| [クランクベイト](/items/rua2) | — |
+| [ポッパー](/items/rua3) | — |
+| [メタルジグ](/items/rua4) | — |
+| [スプーン](/items/rua5) | — |
+| [スピナー](/items/rua6) | — |
+| [ワーム](/items/rua7) | — |
+| [フロッグ](/items/rua8) | — |
+| [エギ](/items/rua9) | — |
+| [ペンシルベイト](/items/rua10) | — |
+| [伝説のルアー](/items/rua11) | — |
 
 ## 魚（100種）
 

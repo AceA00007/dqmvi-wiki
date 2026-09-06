@@ -124,7 +124,7 @@ const VIRTUAL_INDEX = 'virtual:wiki-index'
 /** URLの先頭ディレクトリ → 画面に出す種別 */
 const KIND_BY_DIR: Record<string, string> = {
   monsters: 'モンスター', drops: 'ドロップ品', species: '系統',
-  biomes: '出現場所', items: '装備・道具', jobs: '職業', spells: '呪文',
+  items: '装備・道具', jobs: '職業', spells: '呪文',
   skills: '特技', play: '遊び方', guide: '案内'
 }
 
@@ -391,7 +391,6 @@ export default defineConfig({
         text: 'データ',
         items: [
           { text: 'モンスター図鑑', link: '/monsters/' },
-          { text: '出現場所から探す', link: '/biomes/' },
           { text: 'ドロップ品から探す', link: '/drops/' },
           { text: '系統から探す', link: '/species/' },
           { text: '職業一覧', link: '/jobs/' },
@@ -444,7 +443,6 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'モンスター図鑑', link: '/monsters/' },
-          { text: '出現場所から探す', link: '/biomes/' },
           { text: 'ドロップ品から探す', link: '/drops/' },
           { text: '系統から探す', link: '/species/' },
           { text: '職業一覧', link: '/jobs/' },

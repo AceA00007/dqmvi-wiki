@@ -236,4 +236,3 @@ pageClass: wide-page sortable-list
 - [モンスター図鑑](/monsters/)
 - [系統から探す](/species/)
 - [アイテム一覧](/items/)
-- [出現場所から探す](/biomes/)

@@ -27,12 +27,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ヘルプラネット](/monsters/herupuranetto) | 超レア | 5 | [物質](/species/bussitu) | 459 | 263 | ふつうの土地 |
-| [ビッグフェイス](/monsters/biggufeisu) | 超レア | 5 | [物質](/species/bussitu) | 522 | 294 | ふつうの土地 |
-| [バルンバ](/monsters/balloon_ba) | 超レア | 5 | [ドラゴン](/species/dragon) | 546 | 335 | ふつうの土地 |
-| [ダースドラゴン](/monsters/darthdragon2) | 超レア | 5 | [ドラゴン](/species/dragon) | 627 | 357 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ヘルプラネット](/monsters/herupuranetto) | 超レア | 5 | [物質](/species/bussitu) | 459 | 263 |
+| [ビッグフェイス](/monsters/biggufeisu) | 超レア | 5 | [物質](/species/bussitu) | 522 | 294 |
+| [バルンバ](/monsters/balloon_ba) | 超レア | 5 | [ドラゴン](/species/dragon) | 546 | 335 |
+| [ダースドラゴン](/monsters/darthdragon2) | 超レア | 5 | [ドラゴン](/species/dragon) | 627 | 357 |
 
 見出しを押すと並べ替えできます。
 

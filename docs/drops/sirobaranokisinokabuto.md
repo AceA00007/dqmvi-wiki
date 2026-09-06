@@ -27,9 +27,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [しろバラのきし](/monsters/sirobaranokisi) | 通常 | 6 | [物質](/species/bussitu) | 11,012 | 14,267 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [しろバラのきし](/monsters/sirobaranokisi) | 通常 | 6 | [物質](/species/bussitu) | 11,012 | 14,267 |
 
 見出しを押すと並べ替えできます。
 

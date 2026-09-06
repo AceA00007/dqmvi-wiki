@@ -27,10 +27,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ぶちスライム](/monsters/butisuraimu) | 超レア | 1 | [スライム](/species/slime) | 8 | 4 | スライム湿原 |
-| [マンドラ](/monsters/mandora) | 超レア | 1 | [スライム](/species/slime) | 15 | 9 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ぶちスライム](/monsters/butisuraimu) | 超レア | 1 | [スライム](/species/slime) | 8 | 4 |
+| [マンドラ](/monsters/mandora) | 超レア | 1 | [スライム](/species/slime) | 15 | 9 |
 
 見出しを押すと並べ替えできます。
 

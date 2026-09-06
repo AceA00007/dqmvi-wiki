@@ -26,9 +26,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ぼうれい剣士](/monsters/boureikensi) | 超レア | 5 | [ゾンビ](/species/zombie) | 490 | 270 | 魔物の骨荒野 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ぼうれい剣士](/monsters/boureikensi) | 超レア | 5 | [ゾンビ](/species/zombie) | 490 | 270 |
 
 見出しを押すと並べ替えできます。
 

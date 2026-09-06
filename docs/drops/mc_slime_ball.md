@@ -15,9 +15,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [おおなめくじ](/monsters/oonamekuji) | レア | 1 | [自然](/species/sizen) | 12 | 6 | 毒の大湿地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [おおなめくじ](/monsters/oonamekuji) | レア | 1 | [自然](/species/sizen) | 12 | 6 |
 
 見出しを押すと並べ替えできます。
 

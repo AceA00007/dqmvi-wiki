@@ -26,7 +26,6 @@
  */
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
-import { recordCounts } from './lib/counts.mjs'
 import { extraRows, leftoverTables, finish, withExtraSections, mergeHandwrittenPages, plainName } from './lib/handwritten.mjs'
 import { fixMonsterName } from './lib/monster-names.mjs'
 import { BLANK_MONSTERS } from './lib/blank-monsters.mjs'
@@ -264,12 +263,12 @@ function itemPage(it) {
 
   lines.push('## 落とすモンスター')
   lines.push('')
-  lines.push('| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |')
-  lines.push('| --- | :--: | :--: | :--: | ---: | ---: | --- |')
+  lines.push('| モンスター | 区分 | ランク | 系統 | HP | EXP |')
+  lines.push('| --- | :--: | :--: | :--: | ---: | ---: |')
   for (const f of it.from) {
     const m = statById.get(f.id)
     const x = EXTRAS.monsters[f.id] ?? {}
-    lines.push(`| ${linkTo(f.id)} | ${cell(TIER_SHORT[f.tier] ?? f.tier)} | ${x.rank ?? '—'} | ${x.species && SPECIES_SLUG.has(x.species) ? `[${cell(x.species)}](/species/${SPECIES_SLUG.get(x.species)})` : cell(x.species ?? '—')} | ${num(m?.health)} | ${num(m?.dqExperience)} | ${cell(x.places?.length ? x.places.join('・') : 'ふつうの土地')} |`)
+    lines.push(`| ${linkTo(f.id)} | ${cell(TIER_SHORT[f.tier] ?? f.tier)} | ${x.rank ?? '—'} | ${x.species && SPECIES_SLUG.has(x.species) ? `[${cell(x.species)}](/species/${SPECIES_SLUG.get(x.species)})` : cell(x.species ?? '—')} | ${num(m?.health)} | ${num(m?.dqExperience)} |`)
   }
   lines.push('')
   lines.push('見出しを押すと並べ替えできます。')
@@ -322,7 +321,6 @@ function indexPage() {
   lines.push('- [モンスター図鑑](/monsters/)')
   lines.push('- [系統から探す](/species/)')
   lines.push('- [アイテム一覧](/items/)')
-  lines.push('- [出現場所から探す](/biomes/)')
   lines.push('')
   return finish(lines.join('\n'), path)
 }
@@ -346,4 +344,3 @@ console.log(`1体だけが落とす: ${items.filter((i) => i.from.length === 1).
 if (removed) console.log(`消したページ:   ${removed}件`)
 console.log(`書き出し:       ${OUT_DIR} に ${items.length + 1}ファイル`)
 
-recordCounts({ drops: items.length })

@@ -15,19 +15,19 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [じごくのつかい](/monsters/jigokunotukai) | レア | 5 | [悪魔](/species/akuma) | 473 | 263 | 魔王の焦土 |
-| [まおうのランプ](/monsters/annihilantern) | レア | 5 | [物質](/species/bussitu) | 435 | 264 | ふつうの土地 |
-| [ネコノマンサー](/monsters/nekonomansa) | レア | 5 | [魔獣](/species/majyu) | 488 | 288 | ふつうの土地 |
-| [ゾンビマスター](/monsters/zonbimasuta) | レア | 5 | [ゾンビ](/species/zombie) | 521 | 300 | ふつうの土地 |
-| [ドルイド](/monsters/doruido) | 超レア | 5 | [悪魔](/species/akuma) | 486 | 254 | 魔法の森・ネザー |
-| [ブラックベジター](/monsters/burakkubejita) | 超レア | 5 | [自然](/species/sizen) | 532 | 260 | おばけキノコの森・ネザー |
-| [バアラック](/monsters/barakku) | 超レア | 5 | [悪魔](/species/akuma) | 497 | 264 | ふつうの土地 |
-| [ザバン](/monsters/zaban) | 超レア | 5 | [自然](/species/sizen) | 456 | 274 | ふつうの土地 |
-| [ベルザブル](/monsters/berusaburu) | 超レア | 5 | [自然](/species/sizen) | 489 | 288 | ふつうの土地 |
-| [だいまどう](/monsters/daimadou) | 超レア | 5 | [悪魔](/species/akuma) | 486 | 293 | ネザー |
-| [スカルドン](/monsters/skuldon) | 超レア | 5 | [ドラゴン](/species/dragon) | 661 | 389 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [じごくのつかい](/monsters/jigokunotukai) | レア | 5 | [悪魔](/species/akuma) | 473 | 263 |
+| [まおうのランプ](/monsters/annihilantern) | レア | 5 | [物質](/species/bussitu) | 435 | 264 |
+| [ネコノマンサー](/monsters/nekonomansa) | レア | 5 | [魔獣](/species/majyu) | 488 | 288 |
+| [ゾンビマスター](/monsters/zonbimasuta) | レア | 5 | [ゾンビ](/species/zombie) | 521 | 300 |
+| [ドルイド](/monsters/doruido) | 超レア | 5 | [悪魔](/species/akuma) | 486 | 254 |
+| [ブラックベジター](/monsters/burakkubejita) | 超レア | 5 | [自然](/species/sizen) | 532 | 260 |
+| [バアラック](/monsters/barakku) | 超レア | 5 | [悪魔](/species/akuma) | 497 | 264 |
+| [ザバン](/monsters/zaban) | 超レア | 5 | [自然](/species/sizen) | 456 | 274 |
+| [ベルザブル](/monsters/berusaburu) | 超レア | 5 | [自然](/species/sizen) | 489 | 288 |
+| [だいまどう](/monsters/daimadou) | 超レア | 5 | [悪魔](/species/akuma) | 486 | 293 |
+| [スカルドン](/monsters/skuldon) | 超レア | 5 | [ドラゴン](/species/dragon) | 661 | 389 |
 
 見出しを押すと並べ替えできます。
 

@@ -24,7 +24,6 @@
  */
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs'
 import { join } from 'node:path'
-import { recordCounts } from './lib/counts.mjs'
 import { extraRows, leftoverTables, finish, withExtraSections, mergeHandwrittenPages, plainName } from './lib/handwritten.mjs'
 
 const SRC = process.argv[2]
@@ -373,5 +372,3 @@ console.log(`職業:     ${written}種`)
 console.log(`必殺技:   ${skills.filter((s) => s.kind === 'hissatsu').length}個`)
 console.log(`習得枠:   ${skills.length}件`)
 console.log(`書き出し: ${written + 1}ファイル`)
-
-recordCounts({ jobs: written })

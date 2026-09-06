@@ -15,14 +15,14 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [もりもりスライム](/monsters/behemothslime) | 通常 | 2 | [スライム](/species/slime) | 42 | 43 | ふつうの土地 |
-| [りゅうき兵](/monsters/mandrake_mercenary) | 通常 | 2 | [ドラゴン](/species/dragon) | 64 | 54 | ふつうの土地 |
-| [黄泉の花](/monsters/yominohana) | レア | 2 | [スライム](/species/slime) | 34 | 42 | ふつうの土地 |
-| [ニードルマン](/monsters/ni_doruman) | レア | 2 | [物質](/species/bussitu) | 56 | 52 | ふつうの土地 |
-| [ひとくい木箱](/monsters/hitokuikibako) | レア | 2 | [特殊](/species/tokusyu) | 51 | 54 | ミミックの宝物窟 |
-| [メタッピー](/monsters/metappi) | レア | 2 | [物質](/species/bussitu) | 66 | 61 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [もりもりスライム](/monsters/behemothslime) | 通常 | 2 | [スライム](/species/slime) | 42 | 43 |
+| [りゅうき兵](/monsters/mandrake_mercenary) | 通常 | 2 | [ドラゴン](/species/dragon) | 64 | 54 |
+| [黄泉の花](/monsters/yominohana) | レア | 2 | [スライム](/species/slime) | 34 | 42 |
+| [ニードルマン](/monsters/ni_doruman) | レア | 2 | [物質](/species/bussitu) | 56 | 52 |
+| [ひとくい木箱](/monsters/hitokuikibako) | レア | 2 | [特殊](/species/tokusyu) | 51 | 54 |
+| [メタッピー](/monsters/metappi) | レア | 2 | [物質](/species/bussitu) | 66 | 61 |
 
 見出しを押すと並べ替えできます。
 

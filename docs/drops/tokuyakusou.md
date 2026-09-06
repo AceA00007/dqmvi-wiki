@@ -15,13 +15,13 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ベホマスライム](/monsters/behomasuraimu) | 通常 | 6 | [スライム](/species/slime) | 864 | 320 | 海 |
-| [ベホイムスライム](/monsters/behoimusuraimu) | レア | 4 | [スライム](/species/slime) | 168 | 156 | 海 |
-| [ぶっちズッキーニャ](/monsters/buttizukinya) | 超レア | 4 | [自然](/species/sizen) | 168 | 146 | ふつうの土地 |
-| [ジェリーマン](/monsters/jeriman) | 超レア | 4 | [自然](/species/sizen) | 182 | 148 | 沈没魔物海・毒の大湿地・海 |
-| [しのさそり](/monsters/death_scorpion) | 超レア | 4 | [自然](/species/sizen) | 203 | 174 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ベホマスライム](/monsters/behomasuraimu) | 通常 | 6 | [スライム](/species/slime) | 864 | 320 |
+| [ベホイムスライム](/monsters/behoimusuraimu) | レア | 4 | [スライム](/species/slime) | 168 | 156 |
+| [ぶっちズッキーニャ](/monsters/buttizukinya) | 超レア | 4 | [自然](/species/sizen) | 168 | 146 |
+| [ジェリーマン](/monsters/jeriman) | 超レア | 4 | [自然](/species/sizen) | 182 | 148 |
+| [しのさそり](/monsters/death_scorpion) | 超レア | 4 | [自然](/species/sizen) | 203 | 174 |
 
 見出しを押すと並べ替えできます。
 

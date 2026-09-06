@@ -27,9 +27,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [シールドこぞう](/monsters/sirudokozou) | 超レア | 2 | [物質](/species/bussitu) | 40 | 51 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [シールドこぞう](/monsters/sirudokozou) | 超レア | 2 | [物質](/species/bussitu) | 40 | 51 |
 
 見出しを押すと並べ替えできます。
 

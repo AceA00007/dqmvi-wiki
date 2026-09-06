@@ -27,9 +27,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [アルケミストン](/monsters/arukemisuton) | 通常 | 2 | [魔獣](/species/majyu) | 535 | 904 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [アルケミストン](/monsters/arukemisuton) | 通常 | 2 | [魔獣](/species/majyu) | 535 | 904 |
 
 見出しを押すと並べ替えできます。
 

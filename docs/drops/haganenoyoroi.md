@@ -27,11 +27,11 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [テンタクルス](/monsters/tentacles) | 超レア | 5 | [自然](/species/sizen) | 534 | 285 | ふつうの土地 |
-| [キラースター](/monsters/killer_star) | 超レア | 5 | [物質](/species/bussitu) | 564 | 312 | ふつうの土地 |
-| [ゴーレム](/monsters/goremu) | 超レア | 5 | [物質](/species/bussitu) | 581 | 315 | ゴーレム岩石遺跡 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [テンタクルス](/monsters/tentacles) | 超レア | 5 | [自然](/species/sizen) | 534 | 285 |
+| [キラースター](/monsters/killer_star) | 超レア | 5 | [物質](/species/bussitu) | 564 | 312 |
+| [ゴーレム](/monsters/goremu) | 超レア | 5 | [物質](/species/bussitu) | 581 | 315 |
 
 見出しを押すと並べ替えできます。
 

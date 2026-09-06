@@ -27,9 +27,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ドラゴンダーク](/monsters/dragondarknaito) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,850 | 819 | ドラゴン火山帯 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ドラゴンダーク](/monsters/dragondarknaito) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,850 | 819 |
 
 見出しを押すと並べ替えできます。
 

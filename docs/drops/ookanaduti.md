@@ -26,10 +26,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [おおきづち](/monsters/ookiduti) | 超レア | 2 | [魔獣](/species/majyu) | 42 | 40 | ふつうの土地 |
-| [ブラウニー](/monsters/burauni) | 超レア | 3 | [魔獣](/species/majyu) | 75 | 93 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [おおきづち](/monsters/ookiduti) | 超レア | 2 | [魔獣](/species/majyu) | 42 | 40 |
+| [ブラウニー](/monsters/burauni) | 超レア | 3 | [魔獣](/species/majyu) | 75 | 93 |
 
 見出しを押すと並べ替えできます。
 

@@ -27,10 +27,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ゴールデントーテム](/monsters/gorudentotemu) | 超レア | 4 | [メタル](/species/metal) | 25 | 105 | ふつうの土地 |
-| [メタルトリュフ](/monsters/metaltruffeslime) | 超レア | 4 | [メタル](/species/metal) | 18 | 16,578 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ゴールデントーテム](/monsters/gorudentotemu) | 超レア | 4 | [メタル](/species/metal) | 25 | 105 |
+| [メタルトリュフ](/monsters/metaltruffeslime) | 超レア | 4 | [メタル](/species/metal) | 18 | 16,578 |
 
 見出しを押すと並べ替えできます。
 

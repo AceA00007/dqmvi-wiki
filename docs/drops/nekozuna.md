@@ -15,16 +15,16 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ドロザラー](/monsters/dorozara) | 通常 | 1 | [物質](/species/bussitu) | 14 | 6 | ゴーレム岩石遺跡 |
-| [しましまキャット](/monsters/simasimacat) | 通常 | 1 | [魔獣](/species/majyu) | 15 | 7 | ふつうの土地 |
-| [ねこまどう](/monsters/nekomadou) | 通常 | 1 | [魔獣](/species/majyu) | 11 | 12 | ふつうの土地 |
-| [いたずらもぐら](/monsters/itamogu) | レア | 1 | [魔獣](/species/majyu) | 22 | 13 | ふつうの土地 |
-| [ワンワンダック](/monsters/wanwanduck) | レア | 1 | [魔獣](/species/majyu) | 26 | 14 | ふつうの土地 |
-| [スノーモン](/monsters/sunomon) | レア | 2 | [悪魔](/species/akuma) | 36 | 36 | 氷結のトゲ平原 |
-| [パペットこぞう](/monsters/papetkozou) | レア | 2 | [特殊](/species/tokusyu) | 43 | 39 | ミミックの宝物窟 |
-| [ベロニャーゴ](/monsters/beronyaago) | レア | 4 | [魔獣](/species/majyu) | 176 | 143 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ドロザラー](/monsters/dorozara) | 通常 | 1 | [物質](/species/bussitu) | 14 | 6 |
+| [しましまキャット](/monsters/simasimacat) | 通常 | 1 | [魔獣](/species/majyu) | 15 | 7 |
+| [ねこまどう](/monsters/nekomadou) | 通常 | 1 | [魔獣](/species/majyu) | 11 | 12 |
+| [いたずらもぐら](/monsters/itamogu) | レア | 1 | [魔獣](/species/majyu) | 22 | 13 |
+| [ワンワンダック](/monsters/wanwanduck) | レア | 1 | [魔獣](/species/majyu) | 26 | 14 |
+| [スノーモン](/monsters/sunomon) | レア | 2 | [悪魔](/species/akuma) | 36 | 36 |
+| [パペットこぞう](/monsters/papetkozou) | レア | 2 | [特殊](/species/tokusyu) | 43 | 39 |
+| [ベロニャーゴ](/monsters/beronyaago) | レア | 4 | [魔獣](/species/majyu) | 176 | 143 |
 
 見出しを押すと並べ替えできます。
 

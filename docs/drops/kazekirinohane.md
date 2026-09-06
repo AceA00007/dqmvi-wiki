@@ -15,21 +15,21 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [キメラ](/monsters/kimera) | 通常 | 2 | [自然](/species/sizen) | 46 | 48 | キメラの断崖 |
-| [おおがらす](/monsters/big_crow) | レア | 1 | [自然](/species/sizen) | 13 | 7 | キメラの断崖 |
-| [マグマスライム](/monsters/magmaslime) | レア | 1 | [スライム](/species/slime) | 20 | 9 | ふつうの土地 |
-| [はじけドーラ](/monsters/hajike_dora) | レア | 1 | [ドラゴン](/species/dragon) | 25 | 12 | ふつうの土地 |
-| [つかいま](/monsters/tukaima) | レア | 1 | [悪魔](/species/akuma) | 25 | 13 | ふつうの土地 |
-| [スカルサーペント](/monsters/skullserpent) | レア | 1 | [ゾンビ](/species/zombie) | 23 | 13 | ふつうの土地 |
-| [ブル](/monsters/buru) | レア | 2 | [物質](/species/bussitu) | 45 | 42 | ふつうの土地 |
-| [あやしいかげ](/monsters/ayasiikage) | レア | 2 | [物質](/species/bussitu) | 42 | 44 | ふつうの土地 |
-| [おおくちばし](/monsters/ookutibasi) | レア | 3 | [自然](/species/sizen) | 96 | 92 | キメラの断崖 |
-| [カパーラナーガ](/monsters/kaparanaga) | レア | 3 | [ゾンビ](/species/zombie) | 143 | 100 | ネザー |
-| [フーセンドラゴン](/monsters/fu_sen_dragon) | レア | 3 | [ドラゴン](/species/dragon) | 155 | 107 | ふつうの土地 |
-| [まおうのかげ](/monsters/maounokage) | レア | 6 | [物質](/species/bussitu) | 944 | 350 | ゴースト霧森・魔王の焦土・果ての世界 |
-| [バラモスゾンビ](/monsters/baramoszombie) | レア | 6 | [ドラゴン](/species/dragon) | 1,442 | 469 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [キメラ](/monsters/kimera) | 通常 | 2 | [自然](/species/sizen) | 46 | 48 |
+| [おおがらす](/monsters/big_crow) | レア | 1 | [自然](/species/sizen) | 13 | 7 |
+| [マグマスライム](/monsters/magmaslime) | レア | 1 | [スライム](/species/slime) | 20 | 9 |
+| [はじけドーラ](/monsters/hajike_dora) | レア | 1 | [ドラゴン](/species/dragon) | 25 | 12 |
+| [つかいま](/monsters/tukaima) | レア | 1 | [悪魔](/species/akuma) | 25 | 13 |
+| [スカルサーペント](/monsters/skullserpent) | レア | 1 | [ゾンビ](/species/zombie) | 23 | 13 |
+| [ブル](/monsters/buru) | レア | 2 | [物質](/species/bussitu) | 45 | 42 |
+| [あやしいかげ](/monsters/ayasiikage) | レア | 2 | [物質](/species/bussitu) | 42 | 44 |
+| [おおくちばし](/monsters/ookutibasi) | レア | 3 | [自然](/species/sizen) | 96 | 92 |
+| [カパーラナーガ](/monsters/kaparanaga) | レア | 3 | [ゾンビ](/species/zombie) | 143 | 100 |
+| [フーセンドラゴン](/monsters/fu_sen_dragon) | レア | 3 | [ドラゴン](/species/dragon) | 155 | 107 |
+| [まおうのかげ](/monsters/maounokage) | レア | 6 | [物質](/species/bussitu) | 944 | 350 |
+| [バラモスゾンビ](/monsters/baramoszombie) | レア | 6 | [ドラゴン](/species/dragon) | 1,442 | 469 |
 
 見出しを押すと並べ替えできます。
 

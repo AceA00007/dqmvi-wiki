@@ -15,12 +15,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [マージマタンゴ](/monsters/magematango) | 超レア | 7 | [自然](/species/sizen) | 1,785 | 590 | 魔法の森・おばけキノコの森 |
-| [マグマロン](/monsters/magumaron) | 超レア | 7 | [自然](/species/sizen) | 1,770 | 592 | ふつうの土地 |
-| [スターキメラ](/monsters/starkimera) | 超レア | 7 | [自然](/species/sizen) | 1,770 | 628 | 魔法の森・キメラの断崖 |
-| [デーモンソード](/monsters/demonsodo) | 超レア | 7 | [ゾンビ](/species/zombie) | 2,222 | 867 | 果ての世界 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [マージマタンゴ](/monsters/magematango) | 超レア | 7 | [自然](/species/sizen) | 1,785 | 590 |
+| [マグマロン](/monsters/magumaron) | 超レア | 7 | [自然](/species/sizen) | 1,770 | 592 |
+| [スターキメラ](/monsters/starkimera) | 超レア | 7 | [自然](/species/sizen) | 1,770 | 628 |
+| [デーモンソード](/monsters/demonsodo) | 超レア | 7 | [ゾンビ](/species/zombie) | 2,222 | 867 |
 
 見出しを押すと並べ替えできます。
 

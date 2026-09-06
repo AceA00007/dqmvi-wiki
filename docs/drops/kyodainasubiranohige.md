@@ -25,9 +25,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [巨大ナスビナーラ](/monsters/kyodainasubira) | 通常 | 2 | [自然](/species/sizen) | 446 | 879 | おばけキノコの森 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [巨大ナスビナーラ](/monsters/kyodainasubira) | 通常 | 2 | [自然](/species/sizen) | 446 | 879 |
 
 見出しを押すと並べ替えできます。
 

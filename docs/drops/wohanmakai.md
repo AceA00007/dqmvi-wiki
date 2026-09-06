@@ -26,10 +26,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ビッグハンマー](/monsters/bighanma) | 超レア | 5 | [魔獣](/species/majyu) | 402 | 248 | ふつうの土地 |
-| [どぐう戦士](/monsters/dgu_fighter) | 超レア | 5 | [物質](/species/bussitu) | 481 | 261 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ビッグハンマー](/monsters/bighanma) | 超レア | 5 | [魔獣](/species/majyu) | 402 | 248 |
+| [どぐう戦士](/monsters/dgu_fighter) | 超レア | 5 | [物質](/species/bussitu) | 481 | 261 |
 
 見出しを押すと並べ替えできます。
 

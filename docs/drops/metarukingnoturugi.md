@@ -26,10 +26,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [メタルキング](/monsters/metaking) | 超レア | 5 | [メタル](/species/metal) | 35 | 44,500 | ふつうの土地 |
-| [メタルカイザー](/monsters/metalkaiser) | 超レア | 5 | [メタル](/species/metal) | 34 | 51,405 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [メタルキング](/monsters/metaking) | 超レア | 5 | [メタル](/species/metal) | 35 | 44,500 |
+| [メタルカイザー](/monsters/metalkaiser) | 超レア | 5 | [メタル](/species/metal) | 34 | 51,405 |
 
 見出しを押すと並べ替えできます。
 

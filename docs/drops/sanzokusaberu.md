@@ -26,10 +26,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [がいこつ](/monsters/gaikotu) | 超レア | 4 | [ゾンビ](/species/zombie) | 168 | 163 | 魔物の骨荒野・ネザー |
-| [しびれだんびら](/monsters/sibiredanbira) | 超レア | 4 | [物質](/species/bussitu) | 180 | 169 | ネザー |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [がいこつ](/monsters/gaikotu) | 超レア | 4 | [ゾンビ](/species/zombie) | 168 | 163 |
+| [しびれだんびら](/monsters/sibiredanbira) | 超レア | 4 | [物質](/species/bussitu) | 180 | 169 |
 
 見出しを押すと並べ替えできます。
 

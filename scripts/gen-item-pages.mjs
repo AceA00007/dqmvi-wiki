@@ -23,7 +23,7 @@
  *   docs/items/tensei.md       転生装備
  *   docs/items/materials.md    素材   ┐
  *   docs/items/seeds.md        種     │ 装備以外の分類ごとの一覧（OTHER_PAGES）。
- *   docs/items/fishing.md      釣り   │ 品名と「入手方法」（モンスター・宝箱・鍛冶・店…）。
+ *   docs/items/fishing.md      釣り   │ 品名と「入手方法」（モンスター・魚交換所・農業…）。
  *   docs/items/special.md      特殊   │ 入手方法は scripts/data/item-sources.json（固定データ）と
  *   docs/items/buildings.md    建物   │ monster-extras.json のドロップから
  *   docs/items/magic.md        呪文   │
@@ -32,7 +32,6 @@
  */
 import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'node:fs'
 import { join } from 'node:path'
-import { recordCounts } from './lib/counts.mjs'
 import { recordNames } from './lib/names.mjs'
 import { extraRows, leftoverTables, finish, plainName } from './lib/handwritten.mjs'
 import { BLANK_MONSTERS } from './lib/blank-monsters.mjs'
@@ -142,9 +141,7 @@ const materialRank = new Map(RANKS.materials.map((m) => [m.key.replace(/^legacy_
 const rankLabel = (ranks) => (!ranks?.length ? '—' : ranks.length === 1 ? String(ranks[0]) : `${ranks[0]}〜`)
 const SOURCES_PATH = join('scripts', 'data', 'item-sources.json')
 const SOURCES = existsSync(SOURCES_PATH) ? JSON.parse(readFileSync(SOURCES_PATH, 'utf8')).sources ?? {} : {}
-const SOURCE_ORDER = ['モンスター', 'モンスター（まれに）', '宝箱', '鍛冶', '武器屋', '防具屋', '道具屋', '魚交換所',
-                      '農業', '採取', '釣り', 'カジノ', '福引', 'メダル王', 'すごろく', '依頼の報酬', '精錬',
-                      'コロシアム', 'モンスター図鑑の記念', '釣り図鑑の完成']
+const SOURCE_ORDER = ['モンスター', '魚交換所', '農業', '採取', '釣り', '精錬']
 function sourcesOf(i) {
   const list = new Set([...(DROPPED.has(i.key) ? ['モンスター'] : []), ...(SOURCES[i.key] ?? [])])
   const out = SOURCE_ORDER.filter((s) => list.has(s))
@@ -506,7 +503,7 @@ function otherPage(page) {
       lines.push('')
     }
   } else if (page.group === '素材' && materialRank.size) {
-    lines.push('「ランク」は、そのランクの土地に湧くモンスターや宝箱から手に入り始める目安です（「1〜」ならランク1から）。ゲーム内の「素材取得一覧表」と同じ数字で、ほかの入手経路もあります。')
+    lines.push('「ランク」は、そのランクの土地で手に入り始める目安です（「1〜」ならランク1から）。ゲーム内の「素材取得一覧表」と同じ数字です。')
     lines.push('')
     lines.push(...otherTable(page.group, list, true))
     lines.push(...(extra.get('')?.rows ?? []))
@@ -627,13 +624,3 @@ for (const a of stubs.adopted) console.log(`  編集者のページを使う: ${
     .filter((i) => !seen.has(i.name) && seen.add(i.name))
     .map((i) => [i.name, at.get(i.group), i.group]))
 }
-
-recordCounts({
-  items: items.length,
-  weapons: pick('武器').length,
-  armor: pick('防具').length,
-  shields: pick('盾').length,
-  accessories: pick('アクセサリー').length,
-  tensei: pick('転生装備').length,
-  ...Object.fromEntries(OTHER_PAGES.map((p) => [p.slug, pick(p.group).length]))
-})

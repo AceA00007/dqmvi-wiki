@@ -23,12 +23,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [バブルキング](/monsters/baburuking) | 超レア | 6 | [スライム](/species/slime) | 1,128 | 379 | スライム湿原・果ての世界 |
-| [クラーゴン](/monsters/kraagon) | 超レア | 6 | [自然](/species/sizen) | 1,208 | 430 | ふつうの土地 |
-| [ドラゴントイズ](/monsters/doragontoizu) | 超レア | 6 | [物質](/species/bussitu) | 1,423 | 521 | ふつうの土地 |
-| [あくまのきし](/monsters/akumanokisi) | 超レア | 6 | [悪魔](/species/akuma) | 1,521 | 542 | 果ての世界 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [バブルキング](/monsters/baburuking) | 超レア | 6 | [スライム](/species/slime) | 1,128 | 379 |
+| [クラーゴン](/monsters/kraagon) | 超レア | 6 | [自然](/species/sizen) | 1,208 | 430 |
+| [ドラゴントイズ](/monsters/doragontoizu) | 超レア | 6 | [物質](/species/bussitu) | 1,423 | 521 |
+| [あくまのきし](/monsters/akumanokisi) | 超レア | 6 | [悪魔](/species/akuma) | 1,521 | 542 |
 
 見出しを押すと並べ替えできます。
 

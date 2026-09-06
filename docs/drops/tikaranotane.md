@@ -15,9 +15,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ひとくいサーベル](/monsters/hitokuisaberu) | 超レア | 2 | [物質](/species/bussitu) | 52 | 47 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ひとくいサーベル](/monsters/hitokuisaberu) | 超レア | 2 | [物質](/species/bussitu) | 52 | 47 |
 
 見出しを押すと並べ替えできます。
 

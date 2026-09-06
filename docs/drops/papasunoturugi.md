@@ -26,10 +26,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [キラーパンサー](/monsters/kirapan2) | 超レア | 6 | [魔獣](/species/majyu) | 960 | 350 | ふつうの土地 |
-| [スノードラゴン](/monsters/snow_dragon) | 超レア | 6 | [ドラゴン](/species/dragon) | 1,443 | 486 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [キラーパンサー](/monsters/kirapan2) | 超レア | 6 | [魔獣](/species/majyu) | 960 | 350 |
+| [スノードラゴン](/monsters/snow_dragon) | 超レア | 6 | [ドラゴン](/species/dragon) | 1,443 | 486 |
 
 見出しを押すと並べ替えできます。
 

@@ -25,9 +25,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [はめつの使者](/monsters/hametunosisya) | 超レア | 7 | [悪魔](/species/akuma) | 1,965 | 688 | 魔王の焦土 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [はめつの使者](/monsters/hametunosisya) | 超レア | 7 | [悪魔](/species/akuma) | 1,965 | 688 |
 
 見出しを押すと並べ替えできます。
 

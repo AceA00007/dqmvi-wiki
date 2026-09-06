@@ -15,10 +15,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [タマゴロン](/monsters/tamagoron) | 通常 | 1 | [自然](/species/sizen) | 12 | 6 | タマゴロン草原 |
-| [おおがらす](/monsters/greatraven) | 通常 | 1 | [自然](/species/sizen) | 12 | 9 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [タマゴロン](/monsters/tamagoron) | 通常 | 1 | [自然](/species/sizen) | 12 | 6 |
+| [おおがらす](/monsters/greatraven) | 通常 | 1 | [自然](/species/sizen) | 12 | 9 |
 
 見出しを押すと並べ替えできます。
 

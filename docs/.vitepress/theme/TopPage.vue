@@ -26,18 +26,19 @@ const ICONS = {
   person: 'M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM4.5 20a7.5 7.5 0 0 1 15 0',
   spark: 'M12 3l2 6 6 2-6 2-2 6-2-6-6-2 6-2zM19 4.5v3M17.5 6h3',
   sword: 'M14.5 3H21v6.5L11 19.5l-1.5-1.5M14.5 3L5 12.5 6.5 14M6.5 14L4 16.5 7.5 20l2.5-2.5M6.5 14l3.5 3.5',
-  flag: 'M6 21V4M6 5h11l-2 3.5L17 12H6'
+  flag: 'M6 21V4M6 5h11l-2 3.5L17 12H6',
+  help: 'M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18zM9.5 9.3A2.5 2.5 0 1 1 12 12c0 1-.001 1.2 0 2M12 17.2v.01'
 }
 
 /** よく使う8つ。押しやすい大きさで一番上に置く。件数は出さない（2026-09-03 よっしー指示） */
 const primary = [
-  { icon: 'book', t: 'モンスター図鑑', d: 'HP・弱点・ドロップ・出現場所', link: '/monsters/' },
+  { icon: 'book', t: 'モンスター図鑑', d: 'ランク・弱点・ドロップ・画像', link: '/monsters/' },
   { icon: 'box', t: 'ドロップ品から探す', d: 'あの素材を落とすのは誰か', link: '/drops/' },
   { icon: 'sword', t: '武器・防具', d: '攻撃力・倍率・特殊効果', link: '/items/' },
   { icon: 'person', t: '職業', d: '伸びる能力・覚える技・必殺技', link: '/jobs/' },
   { icon: 'spark', t: '呪文・特技', d: '消費MP・威力・範囲', link: '/spells/' },
   { icon: 'crown', t: '系統から探す', d: 'ドラゴン系・メタル系の顔ぶれ', link: '/species/' },
-  { icon: 'pin', t: '出現場所から探す', d: 'そのバイオームに湧く顔ぶれ', link: '/biomes/' },
+  { icon: 'help', t: 'よくある質問', d: '導入・配合・鍛冶のつまずき', link: '/guide/faq' },
   { icon: 'flag', t: '遊び方ガイド', d: '始め方・配合・鍛冶・農業・釣り', link: '/play/' }
 ]
 
@@ -47,8 +48,7 @@ const questions = [
   { q: '仲間はどう育てる？', a: 'ペットと配合', link: '/play/pets' },
   { q: 'この素材、どこで手に入る？', a: 'ドロップ品から探す', link: '/drops/' },
   { q: '次はどの職業にする？', a: '職業一覧', link: '/jobs/' },
-  { q: 'ドラゴン系って何が居る？', a: '系統から探す', link: '/species/' },
-  { q: 'このへんに何が湧く？', a: '出現場所から探す', link: '/biomes/' }
+  { q: 'ドラゴン系って何が居る？', a: '系統から探す', link: '/species/' }
 ]
 
 const start = [
@@ -66,7 +66,6 @@ const cats = computed(() => [
     title: 'モンスター',
     items: [
       { t: 'モンスター図鑑', link: '/monsters/' },
-      { t: '出現場所から探す', link: '/biomes/' },
       { t: 'ドロップ品から探す', link: '/drops/' },
       { t: '系統から探す', link: '/species/' }
     ]
@@ -143,8 +142,6 @@ const cats = computed(() => [
   {
     title: 'バイオーム・マップ',
     items: [
-      { t: 'バイオーム別の出現モンスター', link: '/biomes/' },
-      { t: 'ネザー', link: '/biomes/nether' }, { t: '果ての世界', link: '/biomes/end' },
       { t: '座標メモ' }
     ]
   },

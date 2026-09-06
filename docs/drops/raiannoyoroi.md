@@ -27,10 +27,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [トレーナースライム](/monsters/trainerslime) | 超レア | 5 | [スライム](/species/slime) | 574 | 303 | ふつうの土地 |
-| [キングレオ](/monsters/kingreo1) | 超レア | 5 | [魔獣](/species/majyu) | 630 | 320 | 黄金の砂漠・ネザー |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [トレーナースライム](/monsters/trainerslime) | 超レア | 5 | [スライム](/species/slime) | 574 | 303 |
+| [キングレオ](/monsters/kingreo1) | 超レア | 5 | [魔獣](/species/majyu) | 630 | 320 |
 
 見出しを押すと並べ替えできます。
 

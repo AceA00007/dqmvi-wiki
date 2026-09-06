@@ -26,9 +26,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [伐採マシン](/monsters/bassaimasin) | 通常 | 4 | [物質](/species/bussitu) | 2,325 | 3,906 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [伐採マシン](/monsters/bassaimasin) | 通常 | 4 | [物質](/species/bussitu) | 2,325 | 3,906 |
 
 見出しを押すと並べ替えできます。
 

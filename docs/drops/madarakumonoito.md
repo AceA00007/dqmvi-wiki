@@ -15,18 +15,18 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ギズモ1](/monsters/gizumo_az) | 通常 | 1 | [物質](/species/bussitu) | 22 | 12 | ふつうの土地 |
-| [フロストギズモ2](/monsters/furosutogizumo) | 通常 | 3 | [物質](/species/bussitu) | 82 | 82 | 氷結のトゲ平原 |
-| [ホロゴースト](/monsters/horoghost) | 通常 | 4 | [物質](/species/bussitu) | 182 | 141 | ゴースト霧森 |
-| [ボーンプリズナー](/monsters/bonpurizuna) | 通常 | 4 | [ゾンビ](/species/zombie) | 232 | 172 | ふつうの土地 |
-| [ボーンナイト](/monsters/boneknight) | 通常 | 4 | [ゾンビ](/species/zombie) | 192 | 183 | ネザー |
-| [ギズモ2](/monsters/gizumo) | レア | 1 | [物質](/species/bussitu) | 22 | 12 | ゴーレム岩石遺跡 |
-| [ドラゴスライム](/monsters/dragosuraimu) | レア | 2 | [スライム](/species/slime) | 36 | 35 | ドラゴン火山帯 |
-| [スライムアンノウン](/monsters/slimeunknown) | レア | 2 | [物質](/species/bussitu) | 60 | 51 | ふつうの土地 |
-| [ベロベロ](/monsters/berobero) | レア | 3 | [ゾンビ](/species/zombie) | 80 | 82 | 毒の大湿地・ネザー |
-| [ドールマスター](/monsters/dollmaster) | レア | 5 | [特殊](/species/tokusyu) | 371 | 216 | ミミックの宝物窟 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ギズモ1](/monsters/gizumo_az) | 通常 | 1 | [物質](/species/bussitu) | 22 | 12 |
+| [フロストギズモ2](/monsters/furosutogizumo) | 通常 | 3 | [物質](/species/bussitu) | 82 | 82 |
+| [ホロゴースト](/monsters/horoghost) | 通常 | 4 | [物質](/species/bussitu) | 182 | 141 |
+| [ボーンプリズナー](/monsters/bonpurizuna) | 通常 | 4 | [ゾンビ](/species/zombie) | 232 | 172 |
+| [ボーンナイト](/monsters/boneknight) | 通常 | 4 | [ゾンビ](/species/zombie) | 192 | 183 |
+| [ギズモ2](/monsters/gizumo) | レア | 1 | [物質](/species/bussitu) | 22 | 12 |
+| [ドラゴスライム](/monsters/dragosuraimu) | レア | 2 | [スライム](/species/slime) | 36 | 35 |
+| [スライムアンノウン](/monsters/slimeunknown) | レア | 2 | [物質](/species/bussitu) | 60 | 51 |
+| [ベロベロ](/monsters/berobero) | レア | 3 | [ゾンビ](/species/zombie) | 80 | 82 |
+| [ドールマスター](/monsters/dollmaster) | レア | 5 | [特殊](/species/tokusyu) | 371 | 216 |
 
 見出しを押すと並べ替えできます。
 

@@ -15,12 +15,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [かげのきし](/monsters/kagenokisi) | 超レア | 7 | [ゾンビ](/species/zombie) | 1,950 | 676 | 魔物の骨荒野・ゴースト霧森 |
-| [デンガー](/monsters/denga) | 超レア | 7 | [スライム](/species/slime) | 2,625 | 791 | ふつうの土地 |
-| [エンゼルアーマー](/monsters/enzeruaamaa) | 超レア | 7 | [物質](/species/bussitu) | 3,069 | 919 | ふつうの土地 |
-| [光の番人](/monsters/hikarinobannin) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,863 | 953 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [かげのきし](/monsters/kagenokisi) | 超レア | 7 | [ゾンビ](/species/zombie) | 1,950 | 676 |
+| [デンガー](/monsters/denga) | 超レア | 7 | [スライム](/species/slime) | 2,625 | 791 |
+| [エンゼルアーマー](/monsters/enzeruaamaa) | 超レア | 7 | [物質](/species/bussitu) | 3,069 | 919 |
+| [光の番人](/monsters/hikarinobannin) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,863 | 953 |
 
 見出しを押すと並べ替えできます。
 

@@ -15,9 +15,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [きりかぶおばけ](/monsters/kirikabuobake) | レア | 2 | [自然](/species/sizen) | 40 | 41 | タマゴロン草原・おばけキノコの森 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [きりかぶおばけ](/monsters/kirikabuobake) | レア | 2 | [自然](/species/sizen) | 40 | 41 |
 
 見出しを押すと並べ替えできます。
 

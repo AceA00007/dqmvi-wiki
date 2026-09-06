@@ -15,12 +15,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ボックススライムオレンジ](/monsters/boxsuraimu) | 通常 | 4 | [スライム](/species/slime) | 183 | 160 | スライム湿原 |
-| [アイアンクック](/monsters/aiankukku) | 通常 | 4 | [物質](/species/bussitu) | 188 | 166 | ふつうの土地 |
-| [スライムプディング](/monsters/slimepudding) | 通常 | 4 | [スライム](/species/slime) | 191 | 172 | ふつうの土地 |
-| [マリンスライム](/monsters/marinsuraimu) | レア | 4 | [スライム](/species/slime) | 178 | 167 | 海 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ボックススライムオレンジ](/monsters/boxsuraimu) | 通常 | 4 | [スライム](/species/slime) | 183 | 160 |
+| [アイアンクック](/monsters/aiankukku) | 通常 | 4 | [物質](/species/bussitu) | 188 | 166 |
+| [スライムプディング](/monsters/slimepudding) | 通常 | 4 | [スライム](/species/slime) | 191 | 172 |
+| [マリンスライム](/monsters/marinsuraimu) | レア | 4 | [スライム](/species/slime) | 178 | 167 |
 
 見出しを押すと並べ替えできます。
 

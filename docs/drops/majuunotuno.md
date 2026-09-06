@@ -15,13 +15,13 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [アルミラージ](/monsters/arumiraji) | 通常 | 2 | [魔獣](/species/majyu) | 59 | 47 | 黄金の砂漠 |
-| [デザートデーモン](/monsters/dezatodemon) | 通常 | 2 | [悪魔](/species/akuma) | 80 | 70 | ふつうの土地 |
-| [ブラウニー](/monsters/burauni) | 通常 | 3 | [魔獣](/species/majyu) | 75 | 93 | ふつうの土地 |
-| [ドラゴン](/monsters/dqmdragon) | 通常 | 4 | [ドラゴン](/species/dragon) | 220 | 200 | ドラゴン火山帯・ネザー |
-| [ビッグハンマー](/monsters/bighanma) | 通常 | 5 | [魔獣](/species/majyu) | 402 | 248 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [アルミラージ](/monsters/arumiraji) | 通常 | 2 | [魔獣](/species/majyu) | 59 | 47 |
+| [デザートデーモン](/monsters/dezatodemon) | 通常 | 2 | [悪魔](/species/akuma) | 80 | 70 |
+| [ブラウニー](/monsters/burauni) | 通常 | 3 | [魔獣](/species/majyu) | 75 | 93 |
+| [ドラゴン](/monsters/dqmdragon) | 通常 | 4 | [ドラゴン](/species/dragon) | 220 | 200 |
+| [ビッグハンマー](/monsters/bighanma) | 通常 | 5 | [魔獣](/species/majyu) | 402 | 248 |
 
 見出しを押すと並べ替えできます。
 

@@ -15,19 +15,19 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [バブルスライム](/monsters/bubsura) | 通常 | 1 | [スライム](/species/slime) | 12 | 6 | スライム湿原 |
-| [じんめんちょう](/monsters/zinmentyou) | レア | 1 | [自然](/species/sizen) | 15 | 9 | キメラの断崖 |
-| [はなまきドラゴ](/monsters/hanamakidrago) | レア | 1 | [ドラゴン](/species/dragon) | 32 | 11 | ふつうの土地 |
-| [マル](/monsters/maru) | レア | 1 | [物質](/species/bussitu) | 24 | 13 | ふつうの土地 |
-| [かぼちゃの騎士](/monsters/kabochanokisi) | レア | 1 | [ゾンビ](/species/zombie) | 26 | 14 | ふつうの土地 |
-| [ジャングラー](/monsters/feralslime) | レア | 1 | [スライム](/species/slime) | 23 | 14 | ふつうの土地 |
-| [どくやずきん](/monsters/dokuyazukin) | レア | 3 | [悪魔](/species/akuma) | 84 | 85 | 毒の大湿地・ネザー |
-| [マタンゴ](/monsters/matango) | レア | 3 | [自然](/species/sizen) | 90 | 91 | おばけキノコの森・ネザー |
-| [さんぞくウーパー](/monsters/sanzokuupa) | レア | 3 | [自然](/species/sizen) | 90 | 95 | ふつうの土地 |
-| [チェリースライム](/monsters/cherryslime) | レア | 3 | [スライム](/species/slime) | 158 | 110 | ふつうの土地 |
-| [スカルゴン](/monsters/skalgon) | レア | 3 | [ドラゴン](/species/dragon) | 175 | 145 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [バブルスライム](/monsters/bubsura) | 通常 | 1 | [スライム](/species/slime) | 12 | 6 |
+| [じんめんちょう](/monsters/zinmentyou) | レア | 1 | [自然](/species/sizen) | 15 | 9 |
+| [はなまきドラゴ](/monsters/hanamakidrago) | レア | 1 | [ドラゴン](/species/dragon) | 32 | 11 |
+| [マル](/monsters/maru) | レア | 1 | [物質](/species/bussitu) | 24 | 13 |
+| [かぼちゃの騎士](/monsters/kabochanokisi) | レア | 1 | [ゾンビ](/species/zombie) | 26 | 14 |
+| [ジャングラー](/monsters/feralslime) | レア | 1 | [スライム](/species/slime) | 23 | 14 |
+| [どくやずきん](/monsters/dokuyazukin) | レア | 3 | [悪魔](/species/akuma) | 84 | 85 |
+| [マタンゴ](/monsters/matango) | レア | 3 | [自然](/species/sizen) | 90 | 91 |
+| [さんぞくウーパー](/monsters/sanzokuupa) | レア | 3 | [自然](/species/sizen) | 90 | 95 |
+| [チェリースライム](/monsters/cherryslime) | レア | 3 | [スライム](/species/slime) | 158 | 110 |
+| [スカルゴン](/monsters/skalgon) | レア | 3 | [ドラゴン](/species/dragon) | 175 | 145 |
 
 見出しを押すと並べ替えできます。
 

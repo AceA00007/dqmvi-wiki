@@ -24,7 +24,6 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs'
 import { extraRows, leftoverTables, finish, plainName } from './lib/handwritten.mjs'
 import { join } from 'node:path'
-import { recordCounts } from './lib/counts.mjs'
 import { recordNames } from './lib/names.mjs'
 
 const SRC = process.argv[2]
@@ -302,7 +301,7 @@ function playPage(page) {
   lines.push(page.lead)
   lines.push('')
   if (page.slug === 'jobs') {
-    lines.push('18種それぞれの能力や習得スキルは [職業一覧](/jobs/) にまとめています。')
+    lines.push('それぞれの能力や習得スキルは [職業一覧](/jobs/) にまとめています。')
     lines.push('')
   }
   for (const [minor, items] of groups) {
@@ -426,9 +425,3 @@ recordNames('guide', [
   ...guide.filter((e) => e.major === '呪文').map((e) => [e.title, '/spells/', '呪文']),
   ...guide.filter((e) => e.major === '特技').map((e) => [e.title, '/skills/', '特技'])
 ])
-
-recordCounts({
-  spells: guide.filter((e) => e.major === '呪文').length,
-  skills: guide.filter((e) => e.major === '特技').length,
-  playPages: made.length
-})

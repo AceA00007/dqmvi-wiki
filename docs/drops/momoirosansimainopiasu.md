@@ -24,9 +24,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ももいろ三姉妹](/monsters/momoirosansimai) | 通常 | 1 | [スライム](/species/slime) | 194 | 289 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ももいろ三姉妹](/monsters/momoirosansimai) | 通常 | 1 | [スライム](/species/slime) | 194 | 289 |
 
 見出しを押すと並べ替えできます。
 

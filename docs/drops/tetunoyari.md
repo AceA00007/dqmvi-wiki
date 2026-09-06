@@ -26,12 +26,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ベビーサタン](/monsters/bebisatan) | 超レア | 2 | [悪魔](/species/akuma) | 50 | 38 | ふつうの土地 |
-| [ピクシー](/monsters/pikusi2) | 超レア | 2 | [悪魔](/species/akuma) | 45 | 41 | ふつうの土地 |
-| [ブル](/monsters/buru) | 超レア | 2 | [物質](/species/bussitu) | 45 | 42 | ふつうの土地 |
-| [くしざしツインズ](/monsters/kusizasituinzu) | 超レア | 2 | [自然](/species/sizen) | 63 | 55 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ベビーサタン](/monsters/bebisatan) | 超レア | 2 | [悪魔](/species/akuma) | 50 | 38 |
+| [ピクシー](/monsters/pikusi2) | 超レア | 2 | [悪魔](/species/akuma) | 45 | 41 |
+| [ブル](/monsters/buru) | 超レア | 2 | [物質](/species/bussitu) | 45 | 42 |
+| [くしざしツインズ](/monsters/kusizasituinzu) | 超レア | 2 | [自然](/species/sizen) | 63 | 55 |
 
 見出しを押すと並べ替えできます。
 

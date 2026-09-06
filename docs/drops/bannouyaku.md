@@ -15,12 +15,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [プヨンターゲット](/monsters/puyon) | レア | 6 | [ゾンビ](/species/zombie) | 944 | 335 | 毒の大湿地 |
-| [ごくらくちょう](/monsters/gokurakuchou) | レア | 6 | [魔獣](/species/majyu) | 969 | 353 | ふつうの土地 |
-| [きのみのせいれい](/monsters/kinominoseirei) | 超レア | 4 | [スライム](/species/slime) | 174 | 134 | ふつうの土地 |
-| [ヘルゴースト](/monsters/herughost) | 超レア | 4 | [ゾンビ](/species/zombie) | 174 | 144 | ゴースト霧森 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [プヨンターゲット](/monsters/puyon) | レア | 6 | [ゾンビ](/species/zombie) | 944 | 335 |
+| [ごくらくちょう](/monsters/gokurakuchou) | レア | 6 | [魔獣](/species/majyu) | 969 | 353 |
+| [きのみのせいれい](/monsters/kinominoseirei) | 超レア | 4 | [スライム](/species/slime) | 174 | 134 |
+| [ヘルゴースト](/monsters/herughost) | 超レア | 4 | [ゾンビ](/species/zombie) | 174 | 144 |
 
 見出しを押すと並べ替えできます。
 

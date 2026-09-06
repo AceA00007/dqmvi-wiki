@@ -15,10 +15,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [うらぎりこぞう](/monsters/uragirikozou) | 超レア | 7 | [悪魔](/species/akuma) | 1,665 | 567 | ふつうの土地 |
-| [あんこくまじん](/monsters/ankokumajin) | 超レア | 7 | [物質](/species/bussitu) | 1,890 | 691 | 魔王の焦土 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [うらぎりこぞう](/monsters/uragirikozou) | 超レア | 7 | [悪魔](/species/akuma) | 1,665 | 567 |
+| [あんこくまじん](/monsters/ankokumajin) | 超レア | 7 | [物質](/species/bussitu) | 1,890 | 691 |
 
 見出しを押すと並べ替えできます。
 

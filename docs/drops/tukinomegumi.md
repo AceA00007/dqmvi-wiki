@@ -15,18 +15,18 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ブラッディハンド](/monsters/buraddihando) | 通常 | 5 | [物質](/species/bussitu) | 389 | 235 | 毒の大湿地 |
-| [ミミック](/monsters/mimikku) | 通常 | 5 | [物質](/species/bussitu) | 522 | 277 | ミミックの宝物窟 |
-| [メガザルロック](/monsters/megazarurokku) | 通常 | 6 | [物質](/species/bussitu) | 896 | 340 | ゴーレム岩石遺跡 |
-| [エクソダス](/monsters/ekusodasu) | 通常 | 6 | [ゾンビ](/species/zombie) | 1,098 | 426 | 果ての世界 |
-| [キラーアーマー](/monsters/kiraama) | 通常 | 7 | [ゾンビ](/species/zombie) | 2,250 | 739 | ふつうの土地 |
-| [ケムンクルス](/monsters/kemunkurusu) | 超レア | 6 | [悪魔](/species/akuma) | 848 | 314 | ふつうの土地 |
-| [プヨンターゲット](/monsters/puyon) | 超レア | 6 | [ゾンビ](/species/zombie) | 944 | 335 | 毒の大湿地 |
-| [ジェントルダンス](/monsters/zyentorudansu) | 超レア | 6 | [悪魔](/species/akuma) | 1,031 | 350 | ふつうの土地 |
-| [ごくらくちょう](/monsters/gokurakuchou) | 超レア | 6 | [魔獣](/species/majyu) | 969 | 353 | ふつうの土地 |
-| [パペットマン](/monsters/papettoman) | 超レア | 6 | [物質](/species/bussitu) | 840 | 357 | 果ての世界 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ブラッディハンド](/monsters/buraddihando) | 通常 | 5 | [物質](/species/bussitu) | 389 | 235 |
+| [ミミック](/monsters/mimikku) | 通常 | 5 | [物質](/species/bussitu) | 522 | 277 |
+| [メガザルロック](/monsters/megazarurokku) | 通常 | 6 | [物質](/species/bussitu) | 896 | 340 |
+| [エクソダス](/monsters/ekusodasu) | 通常 | 6 | [ゾンビ](/species/zombie) | 1,098 | 426 |
+| [キラーアーマー](/monsters/kiraama) | 通常 | 7 | [ゾンビ](/species/zombie) | 2,250 | 739 |
+| [ケムンクルス](/monsters/kemunkurusu) | 超レア | 6 | [悪魔](/species/akuma) | 848 | 314 |
+| [プヨンターゲット](/monsters/puyon) | 超レア | 6 | [ゾンビ](/species/zombie) | 944 | 335 |
+| [ジェントルダンス](/monsters/zyentorudansu) | 超レア | 6 | [悪魔](/species/akuma) | 1,031 | 350 |
+| [ごくらくちょう](/monsters/gokurakuchou) | 超レア | 6 | [魔獣](/species/majyu) | 969 | 353 |
+| [パペットマン](/monsters/papettoman) | 超レア | 6 | [物質](/species/bussitu) | 840 | 357 |
 
 見出しを押すと並べ替えできます。
 

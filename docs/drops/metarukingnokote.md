@@ -27,10 +27,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ゴールデンスライム](/monsters/gorudensuraimu) | 超レア | 5 | [メタル](/species/metal) | 32 | 300 | ふつうの土地 |
-| [プラチナキング](/monsters/puratinaking) | 超レア | 6 | [メタル](/species/metal) | 65 | 150,000 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ゴールデンスライム](/monsters/gorudensuraimu) | 超レア | 5 | [メタル](/species/metal) | 32 | 300 |
+| [プラチナキング](/monsters/puratinaking) | 超レア | 6 | [メタル](/species/metal) | 65 | 150,000 |
 
 見出しを押すと並べ替えできます。
 

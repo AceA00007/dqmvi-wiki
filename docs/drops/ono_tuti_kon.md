@@ -15,12 +15,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [バトルレックス](/monsters/batorurex) | 超レア | 7 | [ドラゴン](/species/dragon) | 1,800 | 675 | ドラゴン火山帯 |
-| [ギーグハンマー](/monsters/giguhanma) | 超レア | 7 | [ドラゴン](/species/dragon) | 3,125 | 702 | ふつうの土地 |
-| [ギガンテス](/monsters/gigantesu) | 超レア | 7 | [悪魔](/species/akuma) | 2,655 | 766 | ふつうの土地 |
-| [デーモンアミゴ](/monsters/demonamigo) | 超レア | 7 | [悪魔](/species/akuma) | 3,312 | 859 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [バトルレックス](/monsters/batorurex) | 超レア | 7 | [ドラゴン](/species/dragon) | 1,800 | 675 |
+| [ギーグハンマー](/monsters/giguhanma) | 超レア | 7 | [ドラゴン](/species/dragon) | 3,125 | 702 |
+| [ギガンテス](/monsters/gigantesu) | 超レア | 7 | [悪魔](/species/akuma) | 2,655 | 766 |
+| [デーモンアミゴ](/monsters/demonamigo) | 超レア | 7 | [悪魔](/species/akuma) | 3,312 | 859 |
 
 見出しを押すと並べ替えできます。
 

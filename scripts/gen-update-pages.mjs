@@ -15,7 +15,6 @@
  */
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs'
 import { join } from 'node:path'
-import { recordCounts } from './lib/counts.mjs'
 import { extraRows, extraSections, headingsOf, withTail, plainName } from './lib/handwritten.mjs'
 
 const DATA = JSON.parse(readFileSync(join('scripts', 'data', 'mod-updates.json'), 'utf8'))
@@ -100,7 +99,6 @@ lines.push('')
 
 mkdirSync(join('docs', 'guide'), { recursive: true })
 writeFileSync(OUT, withTail(lines.join('\n'), OUT), 'utf8')
-recordCounts({ updateDays: DATA.groups.length, updateItems: total })
 
 console.log(`更新の回数: ${DATA.groups.length}回`)
 console.log(`項目:       ${total}件`)

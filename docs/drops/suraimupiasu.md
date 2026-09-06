@@ -25,10 +25,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [スライム](/monsters/sura) | 超レア | 1 | [スライム](/species/slime) | 5 | 2 | スライム湿原・タマゴロン草原 |
-| [スライムB](/monsters/slime_b) | 超レア | 1 | [スライム](/species/slime) | 5 | 2 | スライム湿原・タマゴロン草原 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [スライム](/monsters/sura) | 超レア | 1 | [スライム](/species/slime) | 5 | 2 |
+| [スライムB](/monsters/slime_b) | 超レア | 1 | [スライム](/species/slime) | 5 | 2 |
 
 見出しを押すと並べ替えできます。
 

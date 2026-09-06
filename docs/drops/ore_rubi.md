@@ -15,12 +15,12 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [クイーンマチルダ](/monsters/kuinmatiruda) | 通常 | 5 | [ゾンビ](/species/zombie) | 469 | 243 | ネザー |
-| [スライムエネルゴン](/monsters/slimeenergon) | 通常 | 5 | [スライム](/species/slime) | 491 | 268 | ふつうの土地 |
-| [パンドラ木箱](/monsters/pandorakibako) | 通常 | 5 | [特殊](/species/tokusyu) | 536 | 290 | ミミックの宝物窟 |
-| [ようがんまじん](/monsters/youganmajin) | 超レア | 5 | [物質](/species/bussitu) | 556 | 285 | ネザー |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [クイーンマチルダ](/monsters/kuinmatiruda) | 通常 | 5 | [ゾンビ](/species/zombie) | 469 | 243 |
+| [スライムエネルゴン](/monsters/slimeenergon) | 通常 | 5 | [スライム](/species/slime) | 491 | 268 |
+| [パンドラ木箱](/monsters/pandorakibako) | 通常 | 5 | [特殊](/species/tokusyu) | 536 | 290 |
+| [ようがんまじん](/monsters/youganmajin) | 超レア | 5 | [物質](/species/bussitu) | 556 | 285 |
 
 見出しを押すと並べ替えできます。
 

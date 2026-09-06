@@ -26,11 +26,11 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [トロルボンバー](/monsters/tororubonba) | 超レア | 7 | [悪魔](/species/akuma) | 2,625 | 752 | 果ての世界 |
-| [ダークトロル](/monsters/darktororu) | 超レア | 7 | [悪魔](/species/akuma) | 2,700 | 788 | 魔王の焦土 |
-| [トロルキング](/monsters/tororuking) | 超レア | 7 | [悪魔](/species/akuma) | 3,150 | 867 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [トロルボンバー](/monsters/tororubonba) | 超レア | 7 | [悪魔](/species/akuma) | 2,625 | 752 |
+| [ダークトロル](/monsters/darktororu) | 超レア | 7 | [悪魔](/species/akuma) | 2,700 | 788 |
+| [トロルキング](/monsters/tororuking) | 超レア | 7 | [悪魔](/species/akuma) | 3,150 | 867 |
 
 見出しを押すと並べ替えできます。
 

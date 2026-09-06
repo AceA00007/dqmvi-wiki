@@ -26,10 +26,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [アックスドラゴン](/monsters/axedoragon) | 超レア | 6 | [ドラゴン](/species/dragon) | 1,152 | 368 | ドラゴン火山帯 |
-| [ダーククリスタル](/monsters/dark_crystal) | 超レア | 6 | [物質](/species/bussitu) | 1,258 | 451 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [アックスドラゴン](/monsters/axedoragon) | 超レア | 6 | [ドラゴン](/species/dragon) | 1,152 | 368 |
+| [ダーククリスタル](/monsters/dark_crystal) | 超レア | 6 | [物質](/species/bussitu) | 1,258 | 451 |
 
 見出しを押すと並べ替えできます。
 

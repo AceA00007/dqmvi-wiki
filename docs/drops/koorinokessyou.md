@@ -15,13 +15,13 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ひょうがまじん](/monsters/hyouganmajin) | 通常 | 3 | [物質](/species/bussitu) | 105 | 98 | 氷結のトゲ平原 |
-| [ひょうけつのきし](/monsters/hyouketunokisi) | 通常 | 4 | [悪魔](/species/akuma) | 230 | 262 | 氷結のトゲ平原 |
-| [フロストギズモ1](/monsters/fgizumo) | レア | 3 | [物質](/species/bussitu) | 78 | 83 | ふつうの土地 |
-| [パンドラチェスト](/monsters/tansu_pandora) | レア | 3 | [物質](/species/bussitu) | 99 | 90 | ミミックの宝物窟 |
-| [レッドマーマン](/monsters/redmerman) | レア | 3 | [自然](/species/sizen) | 145 | 102 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ひょうがまじん](/monsters/hyouganmajin) | 通常 | 3 | [物質](/species/bussitu) | 105 | 98 |
+| [ひょうけつのきし](/monsters/hyouketunokisi) | 通常 | 4 | [悪魔](/species/akuma) | 230 | 262 |
+| [フロストギズモ1](/monsters/fgizumo) | レア | 3 | [物質](/species/bussitu) | 78 | 83 |
+| [パンドラチェスト](/monsters/tansu_pandora) | レア | 3 | [物質](/species/bussitu) | 99 | 90 |
+| [レッドマーマン](/monsters/redmerman) | レア | 3 | [自然](/species/sizen) | 145 | 102 |
 
 見出しを押すと並べ替えできます。
 

@@ -15,14 +15,14 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [うずしおキング](/monsters/uzusioking) | レア | 3 | [自然](/species/sizen) | 99 | 94 | ふつうの土地 |
-| [かえんムカデ](/monsters/flame_centipede) | レア | 3 | [自然](/species/sizen) | 110 | 95 | ふつうの土地 |
-| [リビングハンマー](/monsters/living_hammer) | レア | 3 | [物質](/species/bussitu) | 151 | 114 | ふつうの土地 |
-| [りゅうせんし](/monsters/mandrake_marauder) | レア | 3 | [ドラゴン](/species/dragon) | 145 | 121 | ふつうの土地 |
-| [マヒャドフライ](/monsters/mahyadofurai) | レア | 3 | [自然](/species/sizen) | 122 | 137 | ふつうの土地 |
-| [キラースコップ](/monsters/kirasuko) | 超レア | 3 | [魔獣](/species/majyu) | 87 | 91 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [うずしおキング](/monsters/uzusioking) | レア | 3 | [自然](/species/sizen) | 99 | 94 |
+| [かえんムカデ](/monsters/flame_centipede) | レア | 3 | [自然](/species/sizen) | 110 | 95 |
+| [リビングハンマー](/monsters/living_hammer) | レア | 3 | [物質](/species/bussitu) | 151 | 114 |
+| [りゅうせんし](/monsters/mandrake_marauder) | レア | 3 | [ドラゴン](/species/dragon) | 145 | 121 |
+| [マヒャドフライ](/monsters/mahyadofurai) | レア | 3 | [自然](/species/sizen) | 122 | 137 |
+| [キラースコップ](/monsters/kirasuko) | 超レア | 3 | [魔獣](/species/majyu) | 87 | 91 |
 
 見出しを押すと並べ替えできます。
 

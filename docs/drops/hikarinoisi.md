@@ -15,19 +15,19 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ゴールデンスライム](/monsters/gorudensuraimu) | 通常 | 5 | [メタル](/species/metal) | 32 | 300 | ふつうの土地 |
-| [スラ・ブラスター](/monsters/slimeblaster) | 通常 | 7 | [スライム](/species/slime) | 1,790 | 632 | ふつうの土地 |
-| [ストーンマン](/monsters/stonman) | 通常 | 7 | [物質](/species/bussitu) | 2,580 | 792 | ゴーレム岩石遺跡 |
-| [デスマーキュリー](/monsters/desumakyuri) | 通常 | 7 | [物質](/species/bussitu) | 2,777 | 900 | ふつうの土地 |
-| [メタルカイザー](/monsters/metalkaiser) | 通常 | 5 | [メタル](/species/metal) | 34 | 51,405 | ふつうの土地 |
-| [キングレオⅢ](/monsters/kingreo3) | レア | 7 | [魔獣](/species/majyu) | 2,430 | 774 | 魔王の焦土・果ての世界 |
-| [アスラ王](/monsters/asuraou) | レア | 7 | [ゾンビ](/species/zombie) | 2,963 | 807 | ふつうの土地 |
-| [トロルキング](/monsters/tororuking) | レア | 7 | [悪魔](/species/akuma) | 3,150 | 867 | ふつうの土地 |
-| [ゴッドライダー](/monsters/godraida) | レア | 7 | [スライム](/species/slime) | 3,000 | 876 | ふつうの土地 |
-| [エンゼルアーマー](/monsters/enzeruaamaa) | レア | 7 | [物質](/species/bussitu) | 3,069 | 919 | ふつうの土地 |
-| [キラーマシン2](/monsters/kiramasin2) | レア | 7 | [物質](/species/bussitu) | 3,300 | 931 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ゴールデンスライム](/monsters/gorudensuraimu) | 通常 | 5 | [メタル](/species/metal) | 32 | 300 |
+| [スラ・ブラスター](/monsters/slimeblaster) | 通常 | 7 | [スライム](/species/slime) | 1,790 | 632 |
+| [ストーンマン](/monsters/stonman) | 通常 | 7 | [物質](/species/bussitu) | 2,580 | 792 |
+| [デスマーキュリー](/monsters/desumakyuri) | 通常 | 7 | [物質](/species/bussitu) | 2,777 | 900 |
+| [メタルカイザー](/monsters/metalkaiser) | 通常 | 5 | [メタル](/species/metal) | 34 | 51,405 |
+| [キングレオⅢ](/monsters/kingreo3) | レア | 7 | [魔獣](/species/majyu) | 2,430 | 774 |
+| [アスラ王](/monsters/asuraou) | レア | 7 | [ゾンビ](/species/zombie) | 2,963 | 807 |
+| [トロルキング](/monsters/tororuking) | レア | 7 | [悪魔](/species/akuma) | 3,150 | 867 |
+| [ゴッドライダー](/monsters/godraida) | レア | 7 | [スライム](/species/slime) | 3,000 | 876 |
+| [エンゼルアーマー](/monsters/enzeruaamaa) | レア | 7 | [物質](/species/bussitu) | 3,069 | 919 |
+| [キラーマシン2](/monsters/kiramasin2) | レア | 7 | [物質](/species/bussitu) | 3,300 | 931 |
 
 見出しを押すと並べ替えできます。
 

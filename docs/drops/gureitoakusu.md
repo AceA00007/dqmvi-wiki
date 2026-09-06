@@ -26,10 +26,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ドラゴンソルジャー](/monsters/doragonsoruja) | 超レア | 7 | [ドラゴン](/species/dragon) | 1,980 | 681 | ドラゴン火山帯・果ての世界 |
-| [マッソ](/monsters/masso) | 超レア | 7 | [ドラゴン](/species/dragon) | 1,860 | 705 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ドラゴンソルジャー](/monsters/doragonsoruja) | 超レア | 7 | [ドラゴン](/species/dragon) | 1,980 | 681 |
+| [マッソ](/monsters/masso) | 超レア | 7 | [ドラゴン](/species/dragon) | 1,860 | 705 |
 
 見出しを押すと並べ替えできます。
 

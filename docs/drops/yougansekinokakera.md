@@ -15,9 +15,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ようがんまじん](/monsters/youganmajin) | レア | 5 | [物質](/species/bussitu) | 556 | 285 | ネザー |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ようがんまじん](/monsters/youganmajin) | レア | 5 | [物質](/species/bussitu) | 556 | 285 |
 
 見出しを押すと並べ替えできます。
 

@@ -26,13 +26,13 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [エレフローパー](/monsters/elefloper) | 超レア | 5 | [自然](/species/sizen) | 517 | 287 | ふつうの土地 |
-| [まかいファイター](/monsters/commandragor) | 超レア | 5 | [ドラゴン](/species/dragon) | 555 | 304 | ふつうの土地 |
-| [ドラゴンナイト](/monsters/dragonnaito) | 超レア | 5 | [ドラゴン](/species/dragon) | 574 | 311 | ドラゴン火山帯 |
-| [ダークネビュラス](/monsters/dakunepyurasu) | 超レア | 5 | [物質](/species/bussitu) | 600 | 322 | ふつうの土地 |
-| [サタンメイル](/monsters/satanmeiru) | 超レア | 5 | [物質](/species/bussitu) | 609 | 340 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [エレフローパー](/monsters/elefloper) | 超レア | 5 | [自然](/species/sizen) | 517 | 287 |
+| [まかいファイター](/monsters/commandragor) | 超レア | 5 | [ドラゴン](/species/dragon) | 555 | 304 |
+| [ドラゴンナイト](/monsters/dragonnaito) | 超レア | 5 | [ドラゴン](/species/dragon) | 574 | 311 |
+| [ダークネビュラス](/monsters/dakunepyurasu) | 超レア | 5 | [物質](/species/bussitu) | 600 | 322 |
+| [サタンメイル](/monsters/satanmeiru) | 超レア | 5 | [物質](/species/bussitu) | 609 | 340 |
 
 見出しを押すと並べ替えできます。
 

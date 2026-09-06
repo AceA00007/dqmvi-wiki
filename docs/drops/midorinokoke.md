@@ -15,25 +15,25 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [とげぼうず](/monsters/togebouzu) | 通常 | 1 | [物質](/species/bussitu) | 13 | 7 | ゴーレム岩石遺跡 |
-| [ビーンファイター](/monsters/binfaita) | 通常 | 1 | [自然](/species/sizen) | 15 | 9 | ふつうの土地 |
-| [ナスビナーラ](/monsters/nasubira) | 通常 | 1 | [自然](/species/sizen) | 21 | 11 | おばけキノコの森 |
-| [サボテンボール](/monsters/sabotenboru) | 通常 | 1 | [自然](/species/sizen) | 23 | 12 | 黄金の砂漠 |
-| [マッシュスライム](/monsters/slimeshroom) | 通常 | 1 | [スライム](/species/slime) | 22 | 12 | ふつうの土地 |
-| [まほうつかい](/monsters/magician) | 通常 | 1 | [悪魔](/species/akuma) | 15 | 13 | ふつうの土地 |
-| [スライムタール](/monsters/slimetar) | 通常 | 1 | [スライム](/species/slime) | 27 | 14 | ふつうの土地 |
-| [きりかぶおばけ](/monsters/kirikabuobake) | 通常 | 2 | [自然](/species/sizen) | 40 | 41 | タマゴロン草原・おばけキノコの森 |
-| [ズッキーニャ](/monsters/zukkinya) | レア | 1 | [自然](/species/sizen) | 11 | 5 | タマゴロン草原 |
-| [バブルスライム](/monsters/bubsura) | レア | 1 | [スライム](/species/slime) | 12 | 6 | スライム湿原 |
-| [スライムツリー](/monsters/slimetree) | レア | 1 | [スライム](/species/slime) | 10 | 6 | ふつうの土地 |
-| [ライムスライム](/monsters/raimusuraimu) | レア | 1 | [スライム](/species/slime) | 18 | 11 | スライム湿原 |
-| [ファーラット](/monsters/faratto) | レア | 1 | [魔獣](/species/majyu) | 24 | 11 | 氷結のトゲ平原 |
-| [スキッパー](/monsters/sukippaa) | レア | 1 | [悪魔](/species/akuma) | 28 | 15 | ふつうの土地 |
-| [ゴースト](/monsters/ghost) | レア | 2 | [ゾンビ](/species/zombie) | 39 | 35 | ゴースト霧森 |
-| [スピニー](/monsters/supini) | レア | 3 | [物質](/species/bussitu) | 72 | 75 | ふつうの土地 |
-| [石炭つむり](/monsters/coalslime) | レア | 3 | [スライム](/species/slime) | 150 | 110 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [とげぼうず](/monsters/togebouzu) | 通常 | 1 | [物質](/species/bussitu) | 13 | 7 |
+| [ビーンファイター](/monsters/binfaita) | 通常 | 1 | [自然](/species/sizen) | 15 | 9 |
+| [ナスビナーラ](/monsters/nasubira) | 通常 | 1 | [自然](/species/sizen) | 21 | 11 |
+| [サボテンボール](/monsters/sabotenboru) | 通常 | 1 | [自然](/species/sizen) | 23 | 12 |
+| [マッシュスライム](/monsters/slimeshroom) | 通常 | 1 | [スライム](/species/slime) | 22 | 12 |
+| [まほうつかい](/monsters/magician) | 通常 | 1 | [悪魔](/species/akuma) | 15 | 13 |
+| [スライムタール](/monsters/slimetar) | 通常 | 1 | [スライム](/species/slime) | 27 | 14 |
+| [きりかぶおばけ](/monsters/kirikabuobake) | 通常 | 2 | [自然](/species/sizen) | 40 | 41 |
+| [ズッキーニャ](/monsters/zukkinya) | レア | 1 | [自然](/species/sizen) | 11 | 5 |
+| [バブルスライム](/monsters/bubsura) | レア | 1 | [スライム](/species/slime) | 12 | 6 |
+| [スライムツリー](/monsters/slimetree) | レア | 1 | [スライム](/species/slime) | 10 | 6 |
+| [ライムスライム](/monsters/raimusuraimu) | レア | 1 | [スライム](/species/slime) | 18 | 11 |
+| [ファーラット](/monsters/faratto) | レア | 1 | [魔獣](/species/majyu) | 24 | 11 |
+| [スキッパー](/monsters/sukippaa) | レア | 1 | [悪魔](/species/akuma) | 28 | 15 |
+| [ゴースト](/monsters/ghost) | レア | 2 | [ゾンビ](/species/zombie) | 39 | 35 |
+| [スピニー](/monsters/supini) | レア | 3 | [物質](/species/bussitu) | 72 | 75 |
+| [石炭つむり](/monsters/coalslime) | レア | 3 | [スライム](/species/slime) | 150 | 110 |
 
 見出しを押すと並べ替えできます。
 

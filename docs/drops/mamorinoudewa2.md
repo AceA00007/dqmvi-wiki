@@ -25,9 +25,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ガメゴンレジェンド](/monsters/gamegonrejendo) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,700 | 822 | 海 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ガメゴンレジェンド](/monsters/gamegonrejendo) | 超レア | 7 | [ドラゴン](/species/dragon) | 2,700 | 822 |
 
 見出しを押すと並べ替えできます。
 

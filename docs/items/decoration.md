@@ -13,7 +13,7 @@ pageClass: wide-page sortable-list
 | [扉[盗賊の鍵]](/items/door1) | — |
 | [扉[魔法の鍵]](/items/door2) | — |
 | [扉[最後の鍵]](/items/door3) | — |
-| [ヘパイトスの火種](/items/hepaitosunohidane) | 鍛冶 |
+| [ヘパイトスの火種](/items/hepaitosunohidane) | — |
 
 ## 関連ページ
 

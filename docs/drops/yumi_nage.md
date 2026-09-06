@@ -15,11 +15,11 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [アカイライ](/monsters/akairai) | 超レア | 7 | [自然](/species/sizen) | 1,650 | 646 | キメラの断崖 |
-| [クイーンスライム](/monsters/kuinsuraimu) | 超レア | 7 | [スライム](/species/slime) | 2,025 | 648 | 妖精の花畑 |
-| [魔天海フォルネー](/monsters/matenkaiforney) | 超レア | 7 | [自然](/species/sizen) | 1,995 | 777 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [アカイライ](/monsters/akairai) | 超レア | 7 | [自然](/species/sizen) | 1,650 | 646 |
+| [クイーンスライム](/monsters/kuinsuraimu) | 超レア | 7 | [スライム](/species/slime) | 2,025 | 648 |
+| [魔天海フォルネー](/monsters/matenkaiforney) | 超レア | 7 | [自然](/species/sizen) | 1,995 | 777 |
 
 見出しを押すと並べ替えできます。
 

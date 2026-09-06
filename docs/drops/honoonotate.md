@@ -27,11 +27,11 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ドラゴンゾンビ](/monsters/dragonzombie) | 超レア | 4 | [ドラゴン](/species/dragon) | 197 | 171 | ふつうの土地 |
-| [スライムプディング](/monsters/slimepudding) | 超レア | 4 | [スライム](/species/slime) | 191 | 172 | ふつうの土地 |
-| [ガメゴン](/monsters/gamegon) | 超レア | 4 | [ドラゴン](/species/dragon) | 200 | 183 | 沈没魔物海・ネザー・海 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ドラゴンゾンビ](/monsters/dragonzombie) | 超レア | 4 | [ドラゴン](/species/dragon) | 197 | 171 |
+| [スライムプディング](/monsters/slimepudding) | 超レア | 4 | [スライム](/species/slime) | 191 | 172 |
+| [ガメゴン](/monsters/gamegon) | 超レア | 4 | [ドラゴン](/species/dragon) | 200 | 183 |
 
 見出しを押すと並べ替えできます。
 

@@ -27,9 +27,9 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [やつざきアニマル](/monsters/yatuzakianimaru) | 超レア | 4 | [魔獣](/species/majyu) | 202 | 212 | ネザー |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [やつざきアニマル](/monsters/yatuzakianimaru) | 超レア | 4 | [魔獣](/species/majyu) | 202 | 212 |
 
 見出しを押すと並べ替えできます。
 

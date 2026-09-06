@@ -15,15 +15,15 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [ナイトウイプス](/monsters/naitouipusu) | 通常 | 1 | [ゾンビ](/species/zombie) | 20 | 9 | ふつうの土地 |
-| [スキッパー](/monsters/sukippaa) | 通常 | 1 | [悪魔](/species/akuma) | 28 | 15 | ふつうの土地 |
-| [キャタピラー](/monsters/caterpillar) | 通常 | 1 | [自然](/species/sizen) | 24 | 15 | ふつうの土地 |
-| [ゆうれい](/monsters/spirit) | レア | 1 | [ゾンビ](/species/zombie) | 16 | 11 | ふつうの土地 |
-| [ドラキー](/monsters/doraki) | レア | 2 | [悪魔](/species/akuma) | 38 | 35 | キメラの断崖 |
-| [キングジョーカー](/monsters/kingjoker) | レア | 4 | [スライム](/species/slime) | 175 | 142 | ふつうの土地 |
-| [メイジドラキー](/monsters/meijidoraki) | レア | 4 | [悪魔](/species/akuma) | 176 | 156 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [ナイトウイプス](/monsters/naitouipusu) | 通常 | 1 | [ゾンビ](/species/zombie) | 20 | 9 |
+| [スキッパー](/monsters/sukippaa) | 通常 | 1 | [悪魔](/species/akuma) | 28 | 15 |
+| [キャタピラー](/monsters/caterpillar) | 通常 | 1 | [自然](/species/sizen) | 24 | 15 |
+| [ゆうれい](/monsters/spirit) | レア | 1 | [ゾンビ](/species/zombie) | 16 | 11 |
+| [ドラキー](/monsters/doraki) | レア | 2 | [悪魔](/species/akuma) | 38 | 35 |
+| [キングジョーカー](/monsters/kingjoker) | レア | 4 | [スライム](/species/slime) | 175 | 142 |
+| [メイジドラキー](/monsters/meijidoraki) | レア | 4 | [悪魔](/species/akuma) | 176 | 156 |
 
 見出しを押すと並べ替えできます。
 

@@ -26,11 +26,11 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [グール](/monsters/guru) | 超レア | 4 | [ゾンビ](/species/zombie) | 180 | 142 | ふつうの土地 |
-| [アローインプ](/monsters/aroinpu) | 超レア | 4 | [悪魔](/species/akuma) | 178 | 154 | ふつうの土地 |
-| [ディアブラダ](/monsters/dexiaburada) | 超レア | 4 | [悪魔](/species/akuma) | 161 | 156 | ふつうの土地 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [グール](/monsters/guru) | 超レア | 4 | [ゾンビ](/species/zombie) | 180 | 142 |
+| [アローインプ](/monsters/aroinpu) | 超レア | 4 | [悪魔](/species/akuma) | 178 | 154 |
+| [ディアブラダ](/monsters/dexiaburada) | 超レア | 4 | [悪魔](/species/akuma) | 161 | 156 |
 
 見出しを押すと並べ替えできます。
 

@@ -15,10 +15,10 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [クイーンスライム](/monsters/kuinsuraimu) | 通常 | 7 | [スライム](/species/slime) | 2,025 | 648 | 妖精の花畑 |
-| [ドラゴンソルジャー](/monsters/doragonsoruja) | 通常 | 7 | [ドラゴン](/species/dragon) | 1,980 | 681 | ドラゴン火山帯・果ての世界 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [クイーンスライム](/monsters/kuinsuraimu) | 通常 | 7 | [スライム](/species/slime) | 2,025 | 648 |
+| [ドラゴンソルジャー](/monsters/doragonsoruja) | 通常 | 7 | [ドラゴン](/species/dragon) | 1,980 | 681 |
 
 見出しを押すと並べ替えできます。
 

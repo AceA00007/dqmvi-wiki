@@ -15,18 +15,18 @@ pageClass: wide-page sortable-list
 
 ## 落とすモンスター
 
-| モンスター | 区分 | ランク | 系統 | HP | EXP | 出現場所 |
-| --- | :--: | :--: | :--: | ---: | ---: | --- |
-| [トロルキング](/monsters/tororuking) | 通常 | 7 | [悪魔](/species/akuma) | 3,150 | 867 | ふつうの土地 |
-| [スラ・ブラスター](/monsters/slimeblaster) | レア | 7 | [スライム](/species/slime) | 1,790 | 632 | ふつうの土地 |
-| [ヘルガーディアン](/monsters/herugadexian) | レア | 7 | [悪魔](/species/akuma) | 2,350 | 711 | ふつうの土地 |
-| [パンドラボックス](/monsters/pandorabox) | レア | 7 | [物質](/species/bussitu) | 2,100 | 726 | ミミックの宝物窟 |
-| [トロルボンバー](/monsters/tororubonba) | レア | 7 | [悪魔](/species/akuma) | 2,625 | 752 | 果ての世界 |
-| [ギガンテス](/monsters/gigantesu) | レア | 7 | [悪魔](/species/akuma) | 2,655 | 766 | ふつうの土地 |
-| [ドラゴンダーク](/monsters/dragondarknaito) | レア | 7 | [ドラゴン](/species/dragon) | 2,850 | 819 | ドラゴン火山帯 |
-| [ガメゴンレジェンド](/monsters/gamegonrejendo) | レア | 7 | [ドラゴン](/species/dragon) | 2,700 | 822 | 海 |
-| [デスマーキュリー](/monsters/desumakyuri) | レア | 7 | [物質](/species/bussitu) | 2,777 | 900 | ふつうの土地 |
-| [ブラックドラゴン](/monsters/blackdoragon) | レア | 7 | [ドラゴン](/species/dragon) | 3,124 | 1,033 | 果ての世界 |
+| モンスター | 区分 | ランク | 系統 | HP | EXP |
+| --- | :--: | :--: | :--: | ---: | ---: |
+| [トロルキング](/monsters/tororuking) | 通常 | 7 | [悪魔](/species/akuma) | 3,150 | 867 |
+| [スラ・ブラスター](/monsters/slimeblaster) | レア | 7 | [スライム](/species/slime) | 1,790 | 632 |
+| [ヘルガーディアン](/monsters/herugadexian) | レア | 7 | [悪魔](/species/akuma) | 2,350 | 711 |
+| [パンドラボックス](/monsters/pandorabox) | レア | 7 | [物質](/species/bussitu) | 2,100 | 726 |
+| [トロルボンバー](/monsters/tororubonba) | レア | 7 | [悪魔](/species/akuma) | 2,625 | 752 |
+| [ギガンテス](/monsters/gigantesu) | レア | 7 | [悪魔](/species/akuma) | 2,655 | 766 |
+| [ドラゴンダーク](/monsters/dragondarknaito) | レア | 7 | [ドラゴン](/species/dragon) | 2,850 | 819 |
+| [ガメゴンレジェンド](/monsters/gamegonrejendo) | レア | 7 | [ドラゴン](/species/dragon) | 2,700 | 822 |
+| [デスマーキュリー](/monsters/desumakyuri) | レア | 7 | [物質](/species/bussitu) | 2,777 | 900 |
+| [ブラックドラゴン](/monsters/blackdoragon) | レア | 7 | [ドラゴン](/species/dragon) | 3,124 | 1,033 |
 
 見出しを押すと並べ替えできます。
 

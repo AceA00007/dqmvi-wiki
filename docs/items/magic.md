@@ -10,8 +10,8 @@ pageClass: wide-page sortable-list
 
 | 呪文 | 入手方法 |
 | --- | --- |
-| [配合の杖](/items/haigou) | 鍛冶 |
-| [転生の杖](/items/haigou2) | 鍛冶 |
+| [配合の杖](/items/haigou) | — |
+| [転生の杖](/items/haigou2) | — |
 
 ## 関連ページ
 
